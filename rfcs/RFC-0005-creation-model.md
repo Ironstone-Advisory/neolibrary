@@ -3,10 +3,10 @@
 | | |
 |---|---|
 | Author | Rob Tyrie, Ironstone Advisory |
-| Version | 1.5 |
+| Version | 1.6 |
 | Status | Accepted |
 | Date | October 17, 2026 |
-| Also called | The creator model, the creation model, Seven Energies, Eight Energies |
+| Also called | The creator model, the creation model, Seven Energies, Eight Energies, the eleven energies |
 | License | [CC BY 4.0](../LICENSE-docs) |
 
 ## Site summaries
@@ -19,21 +19,21 @@ Creation needs eight kinds of work, with execution orchestrating the rest, and m
 
 **50 words**
 
-The Ironstone Creation Model names eight energies a venture needs to take an idea to market. Ideate creates ideas, think builds systems, make creates their inputs and outputs, do runs them, judge finds opportunities, decide picks them, archive keeps them. Execute orchestrates everything. All eight run in parallel.
+The Ironstone Creation Model names eight intrinsic energies a company controls: ideate, think, make, do, judge, decide, execute and archive, with execute orchestrating the rest. Three extrinsic energies it doesn't control, fans, skeptics and the law, act from outside. Feedback loops run across all eleven, in parallel, to take ideas to market.
 
 **200 words**
 
-The Ironstone Creation Model describes how an idea becomes something that exists, is used and is kept. For a for-profit enterprise, the goal is plain: get the idea to market. Most people and most teams are strong in two or three of its eight energies, and the missing ones are where ventures stall.
+The Ironstone Creation Model describes how an idea becomes something that exists, is used and is kept. For a for-profit enterprise, the goal is plain: get the idea to market. Most teams are strong in two or three of its energies; the missing ones are where ventures stall.
 
 Ideation creates ideas. Thinking turns them into systems. Making uses the systems to create inputs and outputs. Doing runs the system until it repeats. Judging assesses the results, and its output is opportunities to change how something is thought about, made or done. Deciding picks which opportunities to act on, and archiving keeps the work and its lessons. Execution orchestrates everything.
 
-There is no order of execution. All eight run in parallel, each at its own level of energy and its own level of done, trading messages: each demands the inputs it needs and hands on the outputs it has. Every energy needs retrievable memory: each reads what came before and writes down what it learns. Archive handing Ideate the lessons of the last loop is how the model reproduces itself.
+There is no order of execution. All eight run in parallel, each at its own level of energy and its own level of done, trading messages: each demands the inputs it needs and hands on the outputs it has. Every energy needs retrievable memory. Archive handing Ideate the lessons of the last loop is how the model reproduces itself.
 
-Fans, skeptics, and regulation and law act on the work from outside.
+Those eight are intrinsic: a company controls them. Three extrinsic energies come from outside and it doesn't: fans, skeptics and the law. Feedback loops run across all eleven.
 
 ## Summary
 
-The Ironstone Creation Model describes how something goes from an idea to a thing that exists, is used and is kept. It names the kinds of work creation needs, which I call **energies**: ideate, think, make, do, judge, decide, execute and archive. Most people and most teams are strong in two or three of them. The model exists so you can see which energies are present, which are missing, and what has to happen next.
+The Ironstone Creation Model describes how something goes from an idea to a thing that exists, is used and is kept. It names the kinds of work creation needs, which I call **energies**. Eight are intrinsic, controlled by the company: ideate, think, make, do, judge, decide, execute and archive. Three are extrinsic and outside its control: fans, skeptics and the law. Feedback loops run across all eleven. Most people and most teams are strong in two or three of them. The model exists so you can see which energies are present, which are missing, and what has to happen next.
 
 The list is a naming order, not an execution order. There is no fixed sequence in a model like this.
 
@@ -103,13 +103,27 @@ Archive is the energy that keeps all of that retrievable. The test is retrieval,
 
 The whole model runs again inside any single energy, governed by that energy. Inside Archive you can ideate (what could preservation look like here), think (which approach, for whose future use), make (one archive entry), do (run it across several projects), and so on. The parent energy sets the subject and the success test for the loop inside it. Two levels of recursion is plenty.
 
-## Roles and outside forces
+## Intrinsic and extrinsic energies
+
+The model has eleven energies in two groups.
+
+**The eight intrinsic energies** are the foundation: ideate, think, make, do, judge, decide, execute and archive. A company controls them. It decides how much effort each one gets, who carries it and what it produces.
+
+**The three extrinsic energies** come from outside, and a company doesn't control them:
+
+| Extrinsic energy | What it brings |
+|---|---|
+| **Fans** | Belief, adoption, word of mouth, early demand. They pull the work forward |
+| **Skeptics** | Critics, competitors, doubters. They test whether the work holds up |
+| **The law** | Regulation, contracts, rights and obligations. It sets what the work is allowed to be |
+
+**Feedback loops run across all eleven.** Fans' demand feeds Ideate and Execute. A skeptic's attack feeds Judge and Think. A new rule feeds Think and Decide, and can stop Execute outright. The intrinsic energies push back the other way: what Execute ships creates fans and skeptics, and what Archive keeps is the record the law will ask for. A company can't control the extrinsic energies, but it can listen to them, prepare for them and design for them.
+
+That's why the internal skeptic matters. Judging honestly inside the team, before strangers do it, is what makes the outside skeptics survivable. In the NeoLibrary repos the internal skeptic is an aspect that wraps every intrinsic energy ([RFC-0004](RFC-0004-how-we-build.md)).
+
+## Roles
 
 An energy is often carried by a person, and it's rare for one person to carry all of them. The judge in particular needs distance from the work: it's hard to judge objectively what you created. In small companies the judge is often an outside advisor, trusted for exactly that distance. The judging must not kill the energy of the creative work.
-
-Forces outside the team act on the work: **fans** (believers), **skeptics** (critics), and **regulation and law**. Judging internally before you meet the outside world is what makes the outside critics survivable.
-
-In the NeoLibrary repos the skeptic is treated as an aspect that wraps every energy rather than an outside force alone; see [RFC-0004](RFC-0004-how-we-build.md).
 
 ## Where AI fits
 
@@ -157,6 +171,7 @@ The model was designed for groups: in particular the first 20 people in an organ
 
 ## Change log
 
+- 1.6 (October 17, 2026): intrinsic and extrinsic energies. The eight foundation energies are intrinsic (a company controls them); fans, skeptics and the law are extrinsic; feedback loops run across all eleven, as stated by Rob Tyrie.
 - 1.5 (October 17, 2026): records that the model was used to create NeoLibrary and is how Rob builds prompt-based AI agents, as stated by Rob Tyrie; the 2023 prompt-sequence remark quoted from the Pi transcript.
 - 1.4 (October 17, 2026): every energy needs retrievable memory, as stated by Rob Tyrie, who also confirmed the readings of Decide and Archive.
 - 1.3 (October 17, 2026): what each energy produces, as stated by Rob Tyrie: ideas, systems, inputs and outputs, repetitive motion, results that become opportunities. Execute orchestrates everything rather than only shipping.

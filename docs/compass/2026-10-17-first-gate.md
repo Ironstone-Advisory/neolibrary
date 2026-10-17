@@ -75,3 +75,7 @@ Read against the RFC FS02 indicators. "Retrievable memory" is given a test (retr
 ## Addendum: RFC-0005 1.5 and PROVENANCE (October 17, 2026)
 
 Read against the RFC FS02 indicators. The July 2023 remark is paraphrased from the private transcript with its source named; the claim that NeoLibrary was built with the model is attributed to Rob's October 17, 2026 statement. Pass.
+
+## Addendum: RFC-0005 1.6 (October 17, 2026)
+
+Read against the RFC FS02 indicators. Intrinsic and extrinsic are defined by one test (does the company control it), with examples of each feedback loop. Pass.

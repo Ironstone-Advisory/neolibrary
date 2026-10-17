@@ -33,7 +33,7 @@ Rob leads every energy. AI tools amplify, drafting, generating options, checking
 
 ## The skeptic: an aspect, not a stage
 
-The skeptic isn't a step you pass through once. It wraps all the energies, and you call it into whichever one needs it. Its instruments:
+The skeptic isn't a step you pass through once. It wraps all the energies, and you call it into whichever one needs it. It's the internal counterpart of the extrinsic skeptics in [RFC-0005](RFC-0005-creation-model.md): the critics, competitors and doubters a company doesn't control. Meeting your own skeptic first is what makes those survivable. Its instruments:
 
 - **The Critical Cube** (Ironstone Critical Thinking Cube, [RFC-0006](RFC-0006-critical-thinking-cube.md)) for assessing a situation: six faces (the 5 Ws, 5 Whys, 5 Hows, 5 Whens, 5 Wise and 5 Weirds), each sorted into SWOT quadrants, with the 5 Wise as points of view that change with the problem.
 - **The Bullshit Compass** for separating signal from noise in any artifact. It reads language patterns, not truth or intent: tautology, ideological smuggling, semantic drift, assertion ambiguity, buzzword load, pseudoscience rhetoric, emotional persuasion, Orwellian obfuscation and data-presentation obfuscation, adjusted for the kind of text it is Version 1 is RFC FS02 v0.88 with its reference code ([Ironstone-Advisory/BullshitCompass](https://github.com/Ironstone-Advisory/BullshitCompass)); version 2, the active version, began in September 2026 and inherits v1's history ([Ironstone-Advisory/bullshit-compass-v2](https://github.com/Ironstone-Advisory/bullshit-compass-v2)).
