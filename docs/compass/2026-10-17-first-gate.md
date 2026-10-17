@@ -51,3 +51,7 @@ Read against the RFC FS02 indicators. The cognitive-psychology rationale from th
 ## Addendum: site summaries in RFCs 0005 to 0007 (October 17, 2026)
 
 Read against the RFC FS02 indicators. Each summary restates its RFC and adds no claims of its own; no buzzword load or emotional persuasion. Pass.
+
+## Addendum: RFC-0005 1.0 and RFC-0004 1.1 (October 17, 2026)
+
+Read against the RFC FS02 indicators. The 2022 origin rests on Rob's own statement and the RFC says no 2022 document has been found, which keeps assertion ambiguity in check. Pass.

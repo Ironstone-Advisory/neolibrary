@@ -3,14 +3,14 @@
 | | |
 |---|---|
 | Author | Rob Tyrie, Ironstone Advisory |
-| Version | 1.0 |
+| Version | 1.1 |
 | Status | Accepted |
 | Date | October 17, 2026 |
 | License | [CC BY 4.0](../LICENSE-docs) |
 
 ## Summary
 
-Everything in the NeoLibrary repos is made with Rob Tyrie's creative flow, the Ironstone creator model ([RFC-0005](RFC-0005-creation-model.md)): **ideate, think, make, do, decide, judge, execute**. A skeptic wraps the whole flow and can be called into any part of it. It's required in exactly one place: nothing goes public until the Bullshit Compass has run on it at least once.
+Everything in the NeoLibrary repos is made with Rob Tyrie's creative flow, the Ironstone creator model ([RFC-0005](RFC-0005-creation-model.md)): **ideate, think, make, do, judge, decide, execute, archive**. A skeptic wraps the whole flow and can be called into any part of it. It's required in exactly one place: nothing goes public until the Bullshit Compass has run on it at least once.
 
 ## The creative flow
 
@@ -22,9 +22,10 @@ These are energies, not a production line. They connect as a graph, and the whol
 | **Think** | Structure the idea: what it is, what it isn't, what it depends on | Draft RFCs, definitions, diagrams |
 | **Make** | Build the first real thing | Code, documents, designs |
 | **Do** | Use it for real, on real material | Runs against the commons corpus, pilots |
-| **Decide** | Choose a direction from what the doing showed: go left or go right | Accepted RFCs, merged pull requests, a change log entry |
 | **Judge** | Assess quality and outcome against the intent | Reviews, critiques, test results, a Compass reading |
+| **Decide** | Choose a direction from the judgment: go left or go right | Accepted RFCs, merged pull requests, a change log entry |
 | **Execute** | Ship it and run it | Releases, published pages, public commits |
+| **Archive** | Keep the work, the decision and the lesson so the next loop starts from them | PROVENANCE, the private evidence archive, change logs, the commons corpus |
 
 ### Who leads
 
@@ -67,4 +68,5 @@ These hold in every energy:
 
 ## Change log
 
+- 1.1 (October 17, 2026): the flow brought into line with [RFC-0005](RFC-0005-creation-model.md): Judge comes before Decide, and Archive is added, as confirmed by Rob Tyrie.
 - 1.0 (October 17, 2026): first accepted version. The creative flow as stated by Rob Tyrie on October 17, 2026. An earlier eight-part draft named the public gate "Stake (Compass, ship)"; this version places the same gate at the point where Execute goes public.

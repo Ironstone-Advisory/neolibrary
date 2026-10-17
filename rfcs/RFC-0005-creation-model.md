@@ -3,8 +3,8 @@
 | | |
 |---|---|
 | Author | Rob Tyrie, Ironstone Advisory |
-| Version | 0.9 |
-| Status | Draft (awaiting Rob's confirmation of the energy order) |
+| Version | 1.0 |
+| Status | Accepted |
 | Date | October 17, 2026 |
 | Also called | The creator model, the creation model, Seven Energies, Eight Energies |
 | License | [CC BY 4.0](../LICENSE-docs) |
@@ -29,7 +29,7 @@ The energies form a graph, not a staircase. New evidence can send the work backw
 
 Outside forces act on the work: fans, skeptics, and regulation and law. Judging honestly inside the team is what makes the outside critics survivable.
 
-The model began as six roles in a conversation in July 2023 and grew to eight energies by October 2026. AI now takes part in every energy, which makes ideas and fluent prose cheap and makes judgment and a well-kept archive the scarce parts.
+The model began in 2022 with fewer energies. Execute and archive came later, to make it complete and able to reproduce itself. AI now takes part in every energy, which makes ideas and fluent prose cheap and makes judgment and a well-kept archive the scarce parts.
 
 ## Summary
 
@@ -80,6 +80,10 @@ AI can take part in every energy, and the model was framed from the start as a f
 
 The person leads; the tools amplify.
 
+## Why eight: a model that reproduces itself
+
+The model started in 2022 with fewer energies. I added Execute and Archive later, for two reasons. Without Execute, nothing reaches the people it was made for. Without Archive, every loop starts from nothing. Archive is what makes the model reproduce itself: a finished loop, written down, becomes the raw material for the next Ideate, so each cycle seeds the one after it.
+
 ## Scope
 
 The model was designed for groups: in particular the first 20 people in an organization taking digital ideas to their first few million dollars of revenue. It also works for one person moving between energies. Physical goods follow a different model.
@@ -88,16 +92,14 @@ The model was designed for groups: in particular the first 20 people in an organ
 
 | Date | Version | What changed | Source |
 |---|---|---|---|
+| 2022 | Creator model | Invented with fewer energies than today, by Rob's account. No 2022 document has been found yet | Rob Tyrie, October 17, 2026 |
 | Jul 2, 2023 | Creator model | Six internal roles: ideator, thinker, maker, doer, judge (judger), decider. Two outside roles: fans or believers, and skeptics or critics. Described as non-linear, not reductionist, "along ideas of physics", with energies causing change at different levels; drawn as connected nodes like neurons | Rob's voice conversation with Pi, Drive doc "Creator model full July 2 2023" (private archive) |
 | May 22, 2024 | Creator model x 9 | Eclipse Labs (now XLabs) deck slide "Labs Use the Ironstone Creator Model x 9": Archive, Judge, Make, Believe, Decide, Critique, Do, Think, Ideate, crossed with the uses Summarize, Q&A, Transform, Optimize, Simulate, Automate | Drive deck, May 22, 2024 (private archive) |
 | Sep 20-21, 2026 | Seven Energies | Ideate, think, make, do, execute, judge, archive. Renamed from stages to energies; graph and recursion added; book planned | Claude conversation "Creative process framework" |
 | Oct 13, 2026 | Eight Energies | Decide added after Judge and before Archive, from Deming's plan-do-check-act. A ninth energy may yet emerge | Claude conversation "Creator model conversations" |
 | Oct 17, 2026 | Published | ironstoneadvisory.com lists ideate, think, make, do, judge, decide, execute, archive, with fans, skeptics and regulation as outside forces | [Ironstone Methods](https://www.ironstoneadvisory.com/what-we-do/ironstone-methods) |
 
-## Open question
-
-On October 17, 2026 I also stated the flow as "ideate, think, make, do, decide, judge, execute" ([RFC-0004](RFC-0004-how-we-build.md)). That wording puts Decide before Judge and leaves out Archive. This draft follows the published order. RFC-0004 will be brought into line once the order is confirmed, and this RFC moves to Accepted.
-
 ## Change log
 
+- 1.0 (October 17, 2026): accepted. Rob confirmed the order (ideate, think, make, do, judge, decide, execute, archive) and the 2022 origin, with Execute and Archive added later so the model is complete and reproduces itself.
 - 0.9 (October 17, 2026): first draft, compiled from the sources above. Drafted with Claude (AI-assisted) from Rob's own words; no content invented beyond restating them.
