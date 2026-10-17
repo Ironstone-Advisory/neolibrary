@@ -11,7 +11,7 @@ This file records where NeoLibrary came from, using dated primary sources. Anyth
 - **Recollection**: Rob's account, not yet tied to a timestamped source.
 - **AI-assisted**: a document drafted with an AI tool from Rob's prompts and direction. These are labelled. Rob is the author of the direction and the decisions; the tool produced the draft text.
 
-Evidence copies are held privately by Ironstone Advisory. File hashes are given so any copy can be checked.
+Evidence copies are held by Ironstone Advisory in a private archive (`neolibrary-provenance`), indexed with SHA-256 hashes so any copy can be checked against its original.
 
 ## Three phases
 
@@ -33,8 +33,8 @@ Evidence copies are held privately by Ironstone Advisory. File hashes are given 
 | May 20, 2024, 7:30 pm | Rob: "I like the term Neo-Library" | Primary (email) |
 | May 24, 2024 | Rob posts the NeoLibrary concept and requirements spec to a group for the first time, noting he generated it in about an hour | Primary (WhatsApp, Drive); AI-assisted document |
 | May 24, 2024 | Drive file "Neolibrary_Concept_and_Requirements" created, owner Rob | Primary (Drive) |
-| Sep 4, 2024 | "How did you do that?" thread: Rob describes how he built the neo-library work | Primary (email) |
-| Oct 4, 2024 | Chuck Metz sends "NEOLIBRARY Addressing Key Challenges" (PDF, SHA-256 `8d94818567439f03fccfe7975f16239fd1d83bb4d486d1ce30e5fc3ea17ce379`) | Primary (email) |
+| Sep 4-5, 2024 | "How did you do that?" thread: Rob writes "I'm going to build the #neo-library" and describes it as "something I've called the neo Library" | Primary (email) |
+| Oct 3, 2024 | Chuck Metz sends "NEOLIBRARY Addressing Key Challenges" (PDF, SHA-256 `8d94818567439f03fccfe7975f16239fd1d83bb4d486d1ce30e5fc3ea17ce379`) | Primary (email) |
 | Oct 17, 2024 | Coding call with Patrick McDonald on a separate, data-first build | Primary (calendar/email) |
 | Nov 24, 2024 | Rob writes about knowledge objects | Primary (email) |
 | Mar 14, 2025 | Rob develops DAC-EK in thinking sessions; "Neo Librarian" doc created 8:34 pm Toronto | Primary (Drive); AI-assisted sessions |
