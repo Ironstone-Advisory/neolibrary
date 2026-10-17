@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "neolibrary"
+version = "0.0.1"
+description = "An open engine that turns raw material into traceable knowledge objects."
+readme = "README.md"
+license = { text = "Apache-2.0" }
+authors = [{ name = "Ironstone Advisory" }]
+requires-python = ">=3.10"
+
+[project.optional-dependencies]
+dev = ["pytest>=7", "ruff>=0.4"]
+
+[project.urls]
+Homepage = "https://github.com/Ironstone-Advisory/neolibrary"
+
+[tool.setuptools.packages.find]
+where = ["src"]
