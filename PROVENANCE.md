@@ -33,6 +33,7 @@ Evidence copies are held by Ironstone Advisory in a private archive (`neolibrary
 | May 20, 2024, 7:30 pm | Rob: "I like the term Neo-Library" | Primary (email) |
 | May 24, 2024 | Rob posts the NeoLibrary concept and requirements spec to a group for the first time, noting he generated it in about an hour | Primary (WhatsApp, Drive); AI-assisted document |
 | May 24, 2024 | Drive file "Neolibrary_Concept_and_Requirements" created, owner Rob | Primary (Drive) |
+| Jun 2024 (exact date pending export) | Rob writes up **MetaRAG** (grounding LLMs in a consensus library of books) and generalizes it into the NeoLibrary as a semantic knowledge graph of books, with a Dynamic Semantic Data Layer for enterprise data warehouses. His notes state: "All the work is by Ironstone advisory written by Rob Tyrie". Edited copy: [docs/history/2024-06-metarag-and-neolibrary.md](docs/history/2024-06-metarag-and-neolibrary.md) | Primary (Rob's own words, Claude account); AI-assisted edit |
 | Sep 4-5, 2024 | "How did you do that?" thread: Rob writes "I'm going to build the #neo-library" and describes it as "something I've called the neo Library" | Primary (email) |
 | Oct 3, 2024 | Chuck Metz sends "NEOLIBRARY Addressing Key Challenges" (PDF, SHA-256 `8d94818567439f03fccfe7975f16239fd1d83bb4d486d1ce30e5fc3ea17ce379`) | Primary (email) |
 | Oct 17, 2024 | Coding call with Patrick McDonald on a separate, data-first build | Primary (calendar/email) |
