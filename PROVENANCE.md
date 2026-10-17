@@ -31,7 +31,7 @@ Evidence copies are held by Ironstone Advisory in a private archive (`neolibrary
 | May 1 and May 5, 2024 | Rob explores an agentic knowledge base (Keymate) | Primary (email) |
 | May 20, 2024, 7:26 pm | Rob sends "GSG - Neo-Library - Genned Draft Proposal": first use of the name found | Primary (email) |
 | May 20, 2024, 7:30 pm | Rob: "I like the term Neo-Library" | Primary (email) |
-| May 22, 2024 | "IronStone Eclipse - 2024 - Working Paper": Ironstone Eclipse Labs deck. Mission: capture value from compute, algorithms, mathematics and memory. Last slide: "The Guiding Bibliography - The NeoLibrary". First Ironstone-branded use of the name | Primary (Drive) |
+| May 22, 2024 | "IronStone Eclipse - 2024 - Working Paper": Ironstone Eclipse Labs deck (Eclipse Labs later became XLabs, written "xLab" on ironstoneadvisory.com, where the first NeoLibrary version is being built). Mission: capture value from compute, algorithms, mathematics and memory. Last slide: "The Guiding Bibliography - The NeoLibrary". First Ironstone-branded use of the name | Primary (Drive) |
 | May 24, 2024 | Rob posts the NeoLibrary concept and requirements spec to a group for the first time, noting he generated it in about an hour | Primary (WhatsApp, Drive); AI-assisted document |
 | May 24, 2024 | Drive file "Neolibrary_Concept_and_Requirements" created, owner Rob | Primary (Drive) |
 | Jun 13, 2024 | Ironstone business plan checklist includes section 10, "Technology Stack & NeoLibrary" | Primary (Drive); AI-assisted document |

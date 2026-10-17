@@ -18,6 +18,8 @@ The base engine is free and open source under Apache 2.0. Commercial plugins and
 | The rules every knowledge object follows | [RFC-0002: knowledge objects and the provenance spine](rfcs/RFC-0002-knowledge-objects-and-provenance.md) |
 | How to extend it, and what's open vs. commercial | [RFC-0003: plugin contract](rfcs/RFC-0003-plugin-contract.md) |
 | How the work is governed, and the gate before anything goes public | [RFC-0004: how NeoLibrary is built](rfcs/RFC-0004-how-we-build.md) |
+| The Ironstone methods it's built with: the Creation Model, the Critical Thinking Cube, the Evidence Ladder | [RFC-0005](rfcs/RFC-0005-creation-model.md), [RFC-0006](rfcs/RFC-0006-critical-thinking-cube.md), [RFC-0007](rfcs/RFC-0007-evidence-ladder.md) (drafts) |
+| The client-facing overview | [NeoLibrary on ironstoneadvisory.com](https://www.ironstoneadvisory.com/insights/neolibrary) and [Ironstone Methods](https://www.ironstoneadvisory.com/what-we-do/ironstone-methods) |
 | Where the idea came from | [MetaRAG and the NeoLibrary (June 2024)](docs/history/2024-06-metarag-and-neolibrary.md) and [PROVENANCE.md](PROVENANCE.md) |
 
 ---

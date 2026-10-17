@@ -31,3 +31,15 @@ Because the code failed calibration, each public document was read against the n
 ## 3. AI-generated content
 
 All public documents were drafted with AI assistance under Rob Tyrie's direction and read in full before publishing.
+
+## Addendum: RFCs 0005 to 0007 (October 17, 2026, afternoon)
+
+The v1 code still fails calibration, so these were read against the nine RFC FS02 indicators.
+
+| Document | Indicators that fired | Decision |
+|---|---|---|
+| RFC-0005 Creation Model | Assertion ambiguity on the energy order (two versions stated the same day) | Accepted as Draft; the conflict is stated in the RFC as an open question |
+| RFC-0006 Critical Thinking Cube | Pseudoscience rhetoric in the 2024 source (the 5 Hows tied to "the prefrontal cortex") | Fixed: the brain claims were dropped and the cognitive links labelled as design rationale, not tested claims. The worked example on a named company was left in the private archive |
+| RFC-0007 Evidence Ladder | None material. Grades and rules are specific and checkable | Pass |
+
+All three are labelled AI-assisted, with the share of the work that was AI stated in each history table.

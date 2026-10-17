@@ -10,7 +10,7 @@
 
 ## Summary
 
-Everything in the NeoLibrary repos is made with Rob Tyrie's creative flow, the Ironstone creator model: **ideate, think, make, do, decide, judge, execute**. A skeptic wraps the whole flow and can be called into any part of it. It's required in exactly one place: nothing goes public until the Bullshit Compass has run on it at least once.
+Everything in the NeoLibrary repos is made with Rob Tyrie's creative flow, the Ironstone creator model ([RFC-0005](RFC-0005-creation-model.md)): **ideate, think, make, do, decide, judge, execute**. A skeptic wraps the whole flow and can be called into any part of it. It's required in exactly one place: nothing goes public until the Bullshit Compass has run on it at least once.
 
 ## The creative flow
 
@@ -34,9 +34,10 @@ Rob leads every energy. AI tools amplify, drafting, generating options, checking
 
 The skeptic isn't a step you pass through once. It wraps all the energies, and you call it into whichever one needs it. Its instruments:
 
-- **The Critical Cube** (Ironstone Cube) for assessing a situation: six faces, each split into SWOT quadrants, with swappable lenses on each quadrant.
+- **The Critical Cube** (Ironstone Critical Thinking Cube, [RFC-0006](RFC-0006-critical-thinking-cube.md)) for assessing a situation: six faces, each split into SWOT quadrants, with swappable lenses on each quadrant.
 - **The Bullshit Compass** for separating signal from noise in any artifact. It reads language patterns, not truth or intent: tautology, ideological smuggling, semantic drift, assertion ambiguity, buzzword load, pseudoscience rhetoric, emotional persuasion, Orwellian obfuscation and data-presentation obfuscation, adjusted for the kind of text it is Version 1 is RFC FS02 v0.88 with its reference code ([Ironstone-Advisory/BullshitCompass](https://github.com/Ironstone-Advisory/BullshitCompass)); version 2, the active version, began in September 2026 and inherits v1's history ([Ironstone-Advisory/bullshit-compass-v2](https://github.com/Ironstone-Advisory/bullshit-compass-v2)).
 - **Named critics** to get the good, the bad and the ugly in a recognizable voice. Critiques "in the voice of" Galloway, Mintzberg, Graeber or Jobs are simulations of their published views, labelled as such, and never quoted as their words.
+- **The Evidence Ladder** ([RFC-0007](RFC-0007-evidence-ladder.md)) for grading the evidence under a claim and capping confidence at that grade.
 - **The Skepticism Maturity Model** for judging the quality of the critique itself.
 
 ## The one fixed gate
