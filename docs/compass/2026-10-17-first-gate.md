@@ -96,3 +96,7 @@ The v1 code still fails calibration, so the note was read against the nine RFC F
 | Buzzword load, tautology, ideological smuggling, emotional persuasion, Orwellian or data-presentation obfuscation | None material | Pass |
 
 Christopher Alexander's *A Pattern Language* (1977) is credited. The note is Rob's text; Claude added formatting, the reading note and the reference, as listed in the note's Provenance section.
+
+## Addendum: Research Note 001, extrinsic energies (October 17, 2026, evening)
+
+At Rob's direction, section 3 now names four extrinsic energies (fans, skeptics, competition, the law), matching RFC-0005 1.7. The semantic-drift flag above is resolved and the reading note no longer lists a difference. Read against the RFC FS02 indicators: pass.

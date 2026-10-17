@@ -8,7 +8,7 @@
 | Project | Ironstone Creation Model ([RFC-0005](../../rfcs/RFC-0005-creation-model.md)) |
 | License | [CC BY 4.0](../../LICENSE-docs) |
 
-> **Reading note.** Research notes explore; RFCs define. Where this note and [RFC-0005](../../rfcs/RFC-0005-creation-model.md) disagree, the RFC wins until it's revised. One known difference: section 3 lists three extrinsic energies (fans, skeptics, the law). RFC-0005 1.7, accepted the same day, adds a fourth, competition. The note's text is kept as Rob wrote it.
+> **Reading note.** Research notes explore; RFCs define. Where this note and [RFC-0005](../../rfcs/RFC-0005-creation-model.md) disagree, the RFC wins until it's revised.
 
 ## 1. Purpose
 
@@ -32,7 +32,7 @@ IDEATE, THINK, MAKE, DO, JUDGE, DECIDE, EXECUTE and ARCHIVE.
 
 They are interconnected, dynamic and fully recursive. EXECUTE orchestrates across the system; JUDGE evaluates and advises; DECIDE commits and authorizes resources; ARCHIVE preserves information throughout the system.
 
-The three extrinsic energies remain Fans, Skeptics and Regulation (the Law).
+The four extrinsic energies are Fans, Skeptics, Competition and the Law (regulation, contracts, rights and obligations), as in RFC-0005 1.7.
 
 No sequential workflow is implied.
 
@@ -139,7 +139,7 @@ Christopher Alexander, Sara Ishikawa and Murray Silverstein, *A Pattern Language
 
 ## Provenance
 
-Written by Rob Tyrie, October 17, 2026. Formatted for the repo with Claude (AI-assisted): headings, the table and list markup, the reading note and the reference were added; the note's wording is unchanged apart from punctuation and capitalization.
+Written by Rob Tyrie, October 17, 2026. Formatted for the repo with Claude (AI-assisted): headings, the table and list markup, the reading note and the reference were added; the note's wording is unchanged apart from punctuation and capitalization. Revised the same evening at Rob's direction: section 3 now names four extrinsic energies, adding Competition, to match RFC-0005 1.7.
 
 ---
 
