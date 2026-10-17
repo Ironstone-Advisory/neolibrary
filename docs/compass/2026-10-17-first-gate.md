@@ -59,3 +59,7 @@ Read against the RFC FS02 indicators. The 2022 origin rests on Rob's own stateme
 ## Addendum: RFC-0005 1.1 and RFC-0004 1.2 (October 17, 2026)
 
 Read against the RFC FS02 indicators. "Quantum" is borrowed from physics and could read as pseudoscience rhetoric, so the RFC defines it in plain words (a whole, usable unit of an energy's output) and gives examples. Pass.
+
+## Addendum: RFC-0005 1.2 (October 17, 2026)
+
+Read against the RFC FS02 indicators. The message table uses concrete examples, and "level of energy" and "level of done" are defined in plain words. Pass.

@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | Author | Rob Tyrie, Ironstone Advisory |
-| Version | 1.1 |
+| Version | 1.2 |
 | Status | Accepted |
 | Date | October 17, 2026 |
 | Also called | The creator model, the creation model, Seven Energies, Eight Energies |
@@ -19,17 +19,17 @@ Creation needs eight kinds of work, and most teams are strong in only two or thr
 
 **50 words**
 
-The Ironstone Creation Model names the eight energies creation needs: ideate, think, make, do, judge, decide, execute and archive. They're energies, not stages. There's no fixed order: each energy works until it reaches a quantum, then taps the others. Use it to see which energies a team has and which are missing.
+The Ironstone Creation Model names eight energies a venture needs to take an idea to market: ideate, think, make, do, judge, decide, execute and archive. They run in parallel, not in order. Each works toward a quantum of usable output, demanding inputs from the others and handing its outputs on.
 
 **200 words**
 
-The Ironstone Creation Model describes how something goes from an idea to a thing that exists, is used and is kept. It names eight energies: ideate, think, make, do, judge, decide, execute and archive. Most people and most teams are strong in two or three of them, and the missing ones are where projects stall.
+The Ironstone Creation Model describes how an idea becomes something that exists, is used and is kept. For a for-profit enterprise, the goal is plain: get the idea to market. It names eight energies: ideate, think, make, do, judge, decide, execute and archive. Most people and most teams are strong in two or three, and the missing ones are where ventures stall.
 
-There is no order of execution. Each energy works until it reaches a quantum, a whole and usable unit of its own output, and then it can tap any other energy. The energies form a graph, not a staircase, and the whole model runs again inside any single energy. The most valuable tap is from archive to ideate: mining your own finished work for the next idea. Most failures are taps made before a quantum exists, or loops that never reach one.
+There is no order of execution. All eight run in parallel, each at its own level of energy and its own level of done. Each works toward a quantum, a whole and usable unit of its own output, and trades messages with the others: it demands the inputs it needs and hands on the outputs it has. Make demands a sharp assumption from Think. Judge hands Decide a signed verdict. Archive hands Ideate the lessons of the last loop, which is how the model reproduces itself.
 
-Outside forces act on the work: fans, skeptics, and regulation and law. Judging honestly inside the team is what makes the outside critics survivable.
+Outside forces act on the work: fans, skeptics, and regulation and law.
 
-The model began in 2022 with fewer energies. Execute and archive came later, to make it complete and able to reproduce itself. AI now takes part in every energy, which makes ideas and fluent prose cheap and makes judgment and a well-kept archive the scarce parts.
+The model began in 2022 with fewer energies. Execute and archive came later. AI now takes part in every energy, which makes ideas and fluent prose cheap and makes judgment and a well-kept archive scarce.
 
 ## Summary
 
@@ -37,7 +37,7 @@ The Ironstone Creation Model describes how something goes from an idea to a thin
 
 The list is a naming order, not an execution order. There is no fixed sequence in a model like this.
 
-Creation starts before analysis. It starts when an idea, a question, a pressure or a possibility enters the system.
+Creation starts before analysis. It starts when an idea, a question, a pressure or a possibility enters the system. For a for-profit enterprise, the goal is to get that idea to market.
 
 ## The energies
 
@@ -62,6 +62,30 @@ So the model is a graph: energies are nodes, and taps between them are edges. Se
 - **Taps without a quantum.** Ideate straight to Execute is enthusiasm with a deadline: nothing was thought through or made. Execute to Ideate at 90% abandons a nearly finished quantum for a shinier idea.
 - **Loops that never reach a quantum.** Think to Think is planning as procrastination. Make to Make is prototype addiction, usually fear of exposure.
 - **The test for any tap.** Can you name the quantum you're carrying, or the specific thing you learned? If yes, it's a real move. If you're just uncomfortable, it's a retreat.
+
+## Parallel energies and the messages between them
+
+All eight energies run at the same time. At any moment each one has two readings:
+
+- **Level of energy:** how much attention and effort it's getting right now, from none to full.
+- **Level of done:** how close it is to its next quantum.
+
+A healthy venture has every energy live at some level. A stalled one usually has one or two at zero, and that's where to look first.
+
+The energies coordinate by passing messages. Each one **demands inputs** it needs from the others and **gives outputs**, its quanta, to whichever energy needs them. Some typical messages:
+
+| From | To | Message |
+|---|---|---|
+| Make | Think | Demand: which assumption must this prototype test? |
+| Think | Make | Output: the top of the kill list, graded |
+| Do | Judge | Output: what happened when real people used it |
+| Judge | Decide | Output: a verdict someone other than the maker would sign |
+| Decide | Execute | Output: go, with this scope, by this date |
+| Execute | Make | Demand: a fix for the defect customers hit |
+| Execute | Archive | Output: the release and its decision record |
+| Archive | Ideate | Output: the lessons of the last loop |
+
+Reading a team this way, energy by energy and message by message, shows what's blocking the idea from reaching market: an energy with no effort on it, a demand nobody is answering, or an output nobody picked up.
 
 ## Recursion
 
@@ -106,6 +130,7 @@ The model was designed for groups: in particular the first 20 people in an organ
 
 ## Change log
 
+- 1.2 (October 17, 2026): the goal for a for-profit enterprise is getting the idea to market; all energies run in parallel, each with a level of energy and a level of done, and coordinate by demanding inputs and giving outputs, as stated by Rob Tyrie.
 - 1.1 (October 17, 2026): no order of execution. Each energy reaches a quantum before it taps the others, as stated by Rob Tyrie. The "Done when" column becomes each energy's quantum, and "backward edges" become taps.
 - 1.0 (October 17, 2026): accepted. Rob confirmed the order (ideate, think, make, do, judge, decide, execute, archive) and the 2022 origin, with Execute and Archive added later so the model is complete and reproduces itself.
 - 0.9 (October 17, 2026): first draft, compiled from the sources above. Drafted with Claude (AI-assisted) from Rob's own words; no content invented beyond restating them.
