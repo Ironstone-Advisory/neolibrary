@@ -39,7 +39,7 @@ Evidence copies are held by Ironstone Advisory in a private archive (`neolibrary
 | Oct 3, 2024 | Chuck Metz sends "NEOLIBRARY Addressing Key Challenges" (PDF, SHA-256 `8d94818567439f03fccfe7975f16239fd1d83bb4d486d1ce30e5fc3ea17ce379`) | Primary (email) |
 | Oct 17, 2024 | Coding call with Patrick McDonald on a separate, data-first build | Primary (calendar/email) |
 | Nov 24, 2024 | Rob writes about knowledge objects | Primary (email) |
-| Jan 2025 | First technical design spec: a logical data design (entity-relationship model), a system architecture diagram and service contracts for the publishing and marketplace layer, with roles from reader and writer to professor and librarian. Held privately as commercial design | Primary (prompt); AI-assisted design |
+| Jan 2025 | First technical design spec: a logical data design (entity-relationship model), a system architecture diagram and service contracts for the publishing and marketplace layer; a library-systems critique; and a usage-based subscription model with content fingerprinting and a Librarian Agent (the earliest found, ahead of the Neo Librarian doc). Held privately as commercial design | Primary (prompt); AI-assisted design |
 | Mar 14, 2025 | Rob develops DAC-EK in thinking sessions; "Neo Librarian" doc created 8:34 pm Toronto | Primary (Drive); AI-assisted sessions |
 | Oct 17, 2026 | NeoLibrary Helix v2 working draft; repos created under Ironstone Advisory | Primary (this repo) |
 
