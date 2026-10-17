@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | Author | Rob Tyrie, Ironstone Advisory |
-| Version | 1.1 |
+| Version | 1.2 |
 | Status | Accepted |
 | Date | October 17, 2026 |
 | License | [CC BY 4.0](../LICENSE-docs) |
@@ -14,7 +14,7 @@ Everything in the NeoLibrary repos is made with Rob Tyrie's creative flow, the I
 
 ## The creative flow
 
-These are energies, not a production line. They connect as a graph, and the whole flow can run again inside any single energy, governed by that energy. A big "make" contains its own small ideate, think and judge.
+These are energies, not a production line, and there is no order of execution: each energy works until it reaches a quantum, a usable unit of its own output, and then taps the others ([RFC-0005](RFC-0005-creation-model.md)). They connect as a graph, and the whole flow can run again inside any single energy, governed by that energy. A big "make" contains its own small ideate, think and judge.
 
 | Energy | What happens | What it produces in these repos |
 |---|---|---|
@@ -68,5 +68,6 @@ These hold in every energy:
 
 ## Change log
 
+- 1.2 (October 17, 2026): no order of execution; energies tap each other once they reach a quantum.
 - 1.1 (October 17, 2026): the flow brought into line with [RFC-0005](RFC-0005-creation-model.md): Judge comes before Decide, and Archive is added, as confirmed by Rob Tyrie.
 - 1.0 (October 17, 2026): first accepted version. The creative flow as stated by Rob Tyrie on October 17, 2026. An earlier eight-part draft named the public gate "Stake (Compass, ship)"; this version places the same gate at the point where Execute goes public.

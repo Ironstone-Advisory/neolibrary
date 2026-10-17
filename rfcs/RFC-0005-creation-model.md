@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | Author | Rob Tyrie, Ironstone Advisory |
-| Version | 1.0 |
+| Version | 1.1 |
 | Status | Accepted |
 | Date | October 17, 2026 |
 | Also called | The creator model, the creation model, Seven Energies, Eight Energies |
@@ -19,13 +19,13 @@ Creation needs eight kinds of work, and most teams are strong in only two or thr
 
 **50 words**
 
-The Ironstone Creation Model names the eight energies creation needs: ideate, think, make, do, judge, decide, execute and archive. They're energies, not stages. Work moves between them in any direction, and the whole model runs again inside each one. Use it to see which energies a team has and which are missing.
+The Ironstone Creation Model names the eight energies creation needs: ideate, think, make, do, judge, decide, execute and archive. They're energies, not stages. There's no fixed order: each energy works until it reaches a quantum, then taps the others. Use it to see which energies a team has and which are missing.
 
 **200 words**
 
 The Ironstone Creation Model describes how something goes from an idea to a thing that exists, is used and is kept. It names eight energies: ideate, think, make, do, judge, decide, execute and archive. Most people and most teams are strong in two or three of them, and the missing ones are where projects stall.
 
-The energies form a graph, not a staircase. New evidence can send the work backward, sideways or around again, and the whole model runs again inside any single energy. The most valuable move is from archive back to ideate: mining your own finished work for the next idea. The test for any backward move is simple. If you can name what you learned, it's a return. If you're just uncomfortable, it's a retreat.
+There is no order of execution. Each energy works until it reaches a quantum, a whole and usable unit of its own output, and then it can tap any other energy. The energies form a graph, not a staircase, and the whole model runs again inside any single energy. The most valuable tap is from archive to ideate: mining your own finished work for the next idea. Most failures are taps made before a quantum exists, or loops that never reach one.
 
 Outside forces act on the work: fans, skeptics, and regulation and law. Judging honestly inside the team is what makes the outside critics survivable.
 
@@ -35,11 +35,13 @@ The model began in 2022 with fewer energies. Execute and archive came later, to 
 
 The Ironstone Creation Model describes how something goes from an idea to a thing that exists, is used and is kept. It names the kinds of work creation needs, which I call **energies**: ideate, think, make, do, judge, decide, execute and archive. Most people and most teams are strong in two or three of them. The model exists so you can see which energies are present, which are missing, and what has to happen next.
 
+The list is a naming order, not an execution order. There is no fixed sequence in a model like this.
+
 Creation starts before analysis. It starts when an idea, a question, a pressure or a possibility enters the system.
 
 ## The energies
 
-| Energy | What it does | Done when |
+| Energy | What it does | Its quantum: enough to tap another energy |
 |---|---|---|
 | **Ideate** | Generates options without killing them. Ideators observe, mix observation with memory, and frame ideas in words or pictures that others can use | There are more options than feel comfortable, and some are strange |
 | **Think** | Refines, analyzes and filters. Writes down every "this only works if" and ranks the assumptions by what kills you when they're wrong | You can take a real step. That bar is lower than certainty |
@@ -50,13 +52,16 @@ Creation starts before analysis. It starts when an idea, a question, a pressure 
 | **Execute** | Ships it and runs it | Strangers can see it, which makes it production |
 | **Archive** | Keeps the work, the decision and the lesson so they can be found and reused | A later reader could pick it up without asking you |
 
-## These are energies, not stages
+## Energies and quanta, not stages
 
-The order above is the common path, not a staircase. The model is a graph: energies are nodes, and moves between them are edges that run in both directions. New evidence can send the work backward, sideways or around again.
+There is no order of execution. Each energy works until it reaches a **quantum**: a whole, usable unit of its own output, like a set of options worth thinking about, a prototype that could prove you wrong, or a decision written down with its reason. Below that threshold the energy has nothing to hand on. Once it reaches one, it can tap any other energy, in any direction.
 
-- **Useful backward edges.** Archive to Ideate, mining your own finished loops, is the most valuable and the least used. Judge to Think means the review found a strategy error, so re-plan instead of working harder. Do to Make means operations exposed a design flaw, so prototype the fix instead of patching it live.
-- **Pathological edges.** Ideate straight to Execute (enthusiasm with a deadline). Think to Think (planning as procrastination). Make to Make (prototype addiction). Execute to Ideate (abandoning at 90% for a shinier idea).
-- **The test for a backward move.** Can you name the specific thing you learned that invalidates the later energy? If yes, it's a return. If you're just uncomfortable, it's a retreat.
+So the model is a graph: energies are nodes, and taps between them are edges. Several energies can be live at once, at different altitudes. You can be in Do on the project while one deliverable is still in Make.
+
+- **High-value taps.** Archive to Ideate, mining your own finished loops, is the most valuable and the least used. Judge to Think means the review found a strategy error, so re-plan instead of working harder. Do to Make means real use exposed a design flaw, so prototype the fix instead of patching it live.
+- **Taps without a quantum.** Ideate straight to Execute is enthusiasm with a deadline: nothing was thought through or made. Execute to Ideate at 90% abandons a nearly finished quantum for a shinier idea.
+- **Loops that never reach a quantum.** Think to Think is planning as procrastination. Make to Make is prototype addiction, usually fear of exposure.
+- **The test for any tap.** Can you name the quantum you're carrying, or the specific thing you learned? If yes, it's a real move. If you're just uncomfortable, it's a retreat.
 
 ## Recursion
 
@@ -101,5 +106,6 @@ The model was designed for groups: in particular the first 20 people in an organ
 
 ## Change log
 
+- 1.1 (October 17, 2026): no order of execution. Each energy reaches a quantum before it taps the others, as stated by Rob Tyrie. The "Done when" column becomes each energy's quantum, and "backward edges" become taps.
 - 1.0 (October 17, 2026): accepted. Rob confirmed the order (ideate, think, make, do, judge, decide, execute, archive) and the 2022 origin, with Execute and Archive added later so the model is complete and reproduces itself.
 - 0.9 (October 17, 2026): first draft, compiled from the sources above. Drafted with Claude (AI-assisted) from Rob's own words; no content invented beyond restating them.

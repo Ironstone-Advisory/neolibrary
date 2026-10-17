@@ -55,3 +55,7 @@ Read against the RFC FS02 indicators. Each summary restates its RFC and adds no 
 ## Addendum: RFC-0005 1.0 and RFC-0004 1.1 (October 17, 2026)
 
 Read against the RFC FS02 indicators. The 2022 origin rests on Rob's own statement and the RFC says no 2022 document has been found, which keeps assertion ambiguity in check. Pass.
+
+## Addendum: RFC-0005 1.1 and RFC-0004 1.2 (October 17, 2026)
+
+Read against the RFC FS02 indicators. "Quantum" is borrowed from physics and could read as pseudoscience rhetoric, so the RFC defines it in plain words (a whole, usable unit of an energy's output) and gives examples. Pass.
