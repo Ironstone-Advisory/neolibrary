@@ -9,6 +9,7 @@ These RFCs are the canonical definition of NeoLibrary. If code, a README or a sl
 | [RFC-0001](RFC-0001-definitions.md) | NeoLibrary: definitions and scope | 1.0 | Accepted |
 | [RFC-0002](RFC-0002-knowledge-objects-and-provenance.md) | Knowledge objects and the provenance spine | 1.0 | Accepted |
 | [RFC-0003](RFC-0003-plugin-contract.md) | The plugin contract and the open-core boundary | 1.0 | Accepted |
+| [RFC-0004](RFC-0004-how-we-build.md) | How NeoLibrary is built: the creative flow and the skeptic gate | 1.0 | Accepted |
 
 ## How RFCs work here
 

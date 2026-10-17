@@ -7,6 +7,7 @@
 - [RFC-0001: definitions and scope](https://github.com/Ironstone-Advisory/neolibrary/blob/main/rfcs/RFC-0001-definitions.md): NeoLibrary, MetaRAG, book (document), knowledge object, provenance spine, Neolibrarian, DAC-EK, the Helix
 - [RFC-0002: knowledge objects and the provenance spine](https://github.com/Ironstone-Advisory/neolibrary/blob/main/rfcs/RFC-0002-knowledge-objects-and-provenance.md): the rules every knowledge object follows
 - [RFC-0003: plugin contract and open-core boundary](https://github.com/Ironstone-Advisory/neolibrary/blob/main/rfcs/RFC-0003-plugin-contract.md)
+- [RFC-0004: how NeoLibrary is built (creative flow and skeptic gate)](https://github.com/Ironstone-Advisory/neolibrary/blob/main/rfcs/RFC-0004-how-we-build.md)
 
 ## Background
 

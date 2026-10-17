@@ -17,6 +17,7 @@ The base engine is free and open source under Apache 2.0. Commercial plugins and
 | What NeoLibrary, MetaRAG and a knowledge object are | [RFC-0001: definitions and scope](rfcs/RFC-0001-definitions.md) |
 | The rules every knowledge object follows | [RFC-0002: knowledge objects and the provenance spine](rfcs/RFC-0002-knowledge-objects-and-provenance.md) |
 | How to extend it, and what's open vs. commercial | [RFC-0003: plugin contract](rfcs/RFC-0003-plugin-contract.md) |
+| How the work is governed, and the gate before anything goes public | [RFC-0004: how NeoLibrary is built](rfcs/RFC-0004-how-we-build.md) |
 | Where the idea came from | [MetaRAG and the NeoLibrary (June 2024)](docs/history/2024-06-metarag-and-neolibrary.md) and [PROVENANCE.md](PROVENANCE.md) |
 
 ---

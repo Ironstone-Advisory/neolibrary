@@ -1,0 +1,69 @@
+# RFC-0004: How NeoLibrary is built: the creative flow and the skeptic gate
+
+| | |
+|---|---|
+| Author | Rob Tyrie, Ironstone Advisory |
+| Version | 1.0 |
+| Status | Accepted |
+| Date | October 17, 2026 |
+| License | [CC BY 4.0](../LICENSE-docs) |
+
+## Summary
+
+Everything in the NeoLibrary repos is made with Rob Tyrie's creative flow, the Ironstone creator model: **ideate, think, make, do, decide, judge, execute**. A skeptic wraps the whole flow and can be called into any part of it. It's required in exactly one place: nothing goes public until the Bullshit Compass has run on it at least once.
+
+## The creative flow
+
+These are energies, not a production line. They connect as a graph, and the whole flow can run again inside any single energy, governed by that energy. A big "make" contains its own small ideate, think and judge.
+
+| Energy | What happens | What it produces in these repos |
+|---|---|---|
+| **Ideate** | Generate possibilities without filtering them | Notes, sketches, rough prompts, issues |
+| **Think** | Structure the idea: what it is, what it isn't, what it depends on | Draft RFCs, definitions, diagrams |
+| **Make** | Build the first real thing | Code, documents, designs |
+| **Do** | Use it for real, on real material | Runs against the commons corpus, pilots |
+| **Decide** | Choose a direction from what the doing showed: go left or go right | Accepted RFCs, merged pull requests, a change log entry |
+| **Judge** | Assess quality and outcome against the intent | Reviews, critiques, test results, a Compass reading |
+| **Execute** | Ship it and run it | Releases, published pages, public commits |
+
+### Who leads
+
+Rob leads every energy. AI tools amplify, drafting, generating options, checking and building at speed, and the record shows which is which: commits are authored by Rob, and AI involvement is stated in co-author lines and in "AI-assisted" labels on documents (see [PROVENANCE.md](../PROVENANCE.md)).
+
+## The skeptic: an aspect, not a stage
+
+The skeptic isn't a step you pass through once. It wraps all the energies, and you call it into whichever one needs it. Its instruments:
+
+- **The Critical Cube** (Ironstone Cube) for assessing a situation: six faces, each split into SWOT quadrants, with swappable lenses on each quadrant.
+- **The Bullshit Compass** for separating signal from noise in any artifact. It reads language patterns, not truth or intent: tautology, ideological smuggling, semantic drift, assertion ambiguity, buzzword load, pseudoscience rhetoric, emotional persuasion, Orwellian obfuscation and data-presentation obfuscation, adjusted for the kind of text it is Version 1 is RFC FS02 v0.88 with its reference code ([Ironstone-Advisory/BullshitCompass](https://github.com/Ironstone-Advisory/BullshitCompass)); version 2 began in September 2026 ([Ironstone-Advisory/bullshit-compass-v2](https://github.com/Ironstone-Advisory/bullshit-compass-v2)).
+- **Named critics** to get the good, the bad and the ugly in a recognizable voice. Critiques "in the voice of" Galloway, Mintzberg, Graeber or Jobs are simulations of their published views, labelled as such, and never quoted as their words.
+- **The Skepticism Maturity Model** for judging the quality of the critique itself.
+
+## The one fixed gate
+
+**Nothing goes public until the Bullshit Compass has run on it at least once.** This is the only place the skeptic is mandatory; everywhere else it's called by choice.
+
+"Public" means: a commit to a public repository, a published page, a release, or text sent outside Ironstone. The gate sits at the point where Execute makes something visible to strangers (Ironstone Axiom: if it can be seen by strangers, it's production).
+
+A pull request to a public repo passes the gate when its description records:
+
+1. That the Compass ran on the changed prose, and the result (a score, or the indicators that fired).
+2. What was changed because of it, or why a flag was accepted.
+3. Anything AI-generated, and that a person read it in full.
+
+Per the Compass's own rules, a reading is a prompt for judgment, not a verdict. It never decides truth or intent.
+
+A Compass run counts only if the instrument passes its own calibration first: a known-fluffy sample must score worse than a known-plain one. If the code fails calibration, the run is done by reading the text against the RFC FS02 indicators, and the record says so. Gate records live in [docs/compass/](../docs/compass/).
+
+## Invariants
+
+These hold in every energy:
+
+- **Newton before quantum.** Use the simple, established method first; reach for the exotic one only when the simple one fails.
+- **The model is the asset.** The durable value is the method and the model of the domain, written down, not any single output.
+- **Beauty is a requirement.** Clear, well-made work is part of "done", not decoration.
+- **Plan before costly builds.** Anything expensive to undo gets a written plan first.
+
+## Change log
+
+- 1.0 (October 17, 2026): first accepted version. The creative flow as stated by Rob Tyrie on October 17, 2026. An earlier eight-part draft named the public gate "Stake (Compass, ship)"; this version places the same gate at the point where Execute goes public.

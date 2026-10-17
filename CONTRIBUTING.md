@@ -26,6 +26,10 @@ Signed-off-by: Your Name <you@example.com>
 
 Pull requests without a sign-off cannot be merged.
 
+## The Compass gate
+
+Nothing merges into this public repo until the Bullshit Compass has run on the changed prose and the pull request records the result. See [RFC-0004](rfcs/RFC-0004-how-we-build.md); the pull request template has the checklist.
+
 ## What goes where
 
 | Change | Repo |
