@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | Author | Rob Tyrie, Ironstone Advisory |
-| Version | 1.2 |
+| Version | 1.3 |
 | Status | Accepted |
 | Date | October 17, 2026 |
 | License | [CC BY 4.0](../LICENSE-docs) |
@@ -19,12 +19,12 @@ These are energies, not a production line, and there is no order of execution: e
 | Energy | What happens | What it produces in these repos |
 |---|---|---|
 | **Ideate** | Generate possibilities without filtering them | Notes, sketches, rough prompts, issues |
-| **Think** | Structure the idea: what it is, what it isn't, what it depends on | Draft RFCs, definitions, diagrams |
+| **Think** | Turn the idea into a system: its parts, how they connect, its inputs and outputs | Draft RFCs, definitions, diagrams |
 | **Make** | Build the first real thing | Code, documents, designs |
-| **Do** | Use it for real, on real material | Runs against the commons corpus, pilots |
+| **Do** | Run the system for real, repeatedly | Runs against the commons corpus, pilots |
 | **Judge** | Assess quality and outcome against the intent | Reviews, critiques, test results, a Compass reading |
 | **Decide** | Choose a direction from the judgment: go left or go right | Accepted RFCs, merged pull requests, a change log entry |
-| **Execute** | Ship it and run it | Releases, published pages, public commits |
+| **Execute** | Orchestrate all the energies and bring the work to market | Releases, published pages, public commits |
 | **Archive** | Keep the work, the decision and the lesson so the next loop starts from them | PROVENANCE, the private evidence archive, change logs, the commons corpus |
 
 ### Who leads
@@ -68,6 +68,7 @@ These hold in every energy:
 
 ## Change log
 
+- 1.3 (October 17, 2026): Think builds systems, Do runs them repeatedly, Execute orchestrates everything (RFC-0005 1.3).
 - 1.2 (October 17, 2026): no order of execution; energies tap each other once they reach a quantum.
 - 1.1 (October 17, 2026): the flow brought into line with [RFC-0005](RFC-0005-creation-model.md): Judge comes before Decide, and Archive is added, as confirmed by Rob Tyrie.
 - 1.0 (October 17, 2026): first accepted version. The creative flow as stated by Rob Tyrie on October 17, 2026. An earlier eight-part draft named the public gate "Stake (Compass, ship)"; this version places the same gate at the point where Execute goes public.

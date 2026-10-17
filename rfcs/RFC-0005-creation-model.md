@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | Author | Rob Tyrie, Ironstone Advisory |
-| Version | 1.2 |
+| Version | 1.3 |
 | Status | Accepted |
 | Date | October 17, 2026 |
 | Also called | The creator model, the creation model, Seven Energies, Eight Energies |
@@ -15,21 +15,21 @@ For ironstoneadvisory.com and other short uses. Copy these as written; they chan
 
 **One line**
 
-Creation needs eight kinds of work, and most teams are strong in only two or three of them.
+Creation needs eight kinds of work, with execution orchestrating the rest, and most teams are strong in only two or three.
 
 **50 words**
 
-The Ironstone Creation Model names eight energies a venture needs to take an idea to market: ideate, think, make, do, judge, decide, execute and archive. They run in parallel, not in order. Each works toward a quantum of usable output, demanding inputs from the others and handing its outputs on.
+The Ironstone Creation Model names eight energies a venture needs to take an idea to market. Ideate creates ideas, think builds systems, make creates their inputs and outputs, do runs them, judge finds opportunities, decide picks them, archive keeps them. Execute orchestrates everything. All eight run in parallel.
 
 **200 words**
 
-The Ironstone Creation Model describes how an idea becomes something that exists, is used and is kept. For a for-profit enterprise, the goal is plain: get the idea to market. It names eight energies: ideate, think, make, do, judge, decide, execute and archive. Most people and most teams are strong in two or three, and the missing ones are where ventures stall.
+The Ironstone Creation Model describes how an idea becomes something that exists, is used and is kept. For a for-profit enterprise, the goal is plain: get the idea to market. Most people and most teams are strong in two or three of its eight energies, and the missing ones are where ventures stall.
 
-There is no order of execution. All eight run in parallel, each at its own level of energy and its own level of done. Each works toward a quantum, a whole and usable unit of its own output, and trades messages with the others: it demands the inputs it needs and hands on the outputs it has. Make demands a sharp assumption from Think. Judge hands Decide a signed verdict. Archive hands Ideate the lessons of the last loop, which is how the model reproduces itself.
+Ideation creates ideas. Thinking turns them into systems. Making uses the systems to create inputs and outputs. Doing runs the system until it repeats. Judging assesses the results, and its output is opportunities to change how something is thought about, made or done. Deciding picks which opportunities to act on, and archiving keeps the work and its lessons. Execution orchestrates everything.
 
-Outside forces act on the work: fans, skeptics, and regulation and law.
+There is no order of execution. All eight run in parallel, each at its own level of energy and its own level of done, trading messages: each demands the inputs it needs and hands on the outputs it has. Archive handing Ideate the lessons of the last loop is how the model reproduces itself.
 
-The model began in 2022 with fewer energies. Execute and archive came later. AI now takes part in every energy, which makes ideas and fluent prose cheap and makes judgment and a well-kept archive scarce.
+Fans, skeptics, and regulation and law act on the work from outside. AI now takes part in every energy, which makes ideas cheap and makes judgment and a well-kept archive scarce.
 
 ## Summary
 
@@ -43,13 +43,13 @@ Creation starts before analysis. It starts when an idea, a question, a pressure 
 
 | Energy | What it does | Its quantum: enough to tap another energy |
 |---|---|---|
-| **Ideate** | Generates options without killing them. Ideators observe, mix observation with memory, and frame ideas in words or pictures that others can use | There are more options than feel comfortable, and some are strange |
-| **Think** | Refines, analyzes and filters. Writes down every "this only works if" and ranks the assumptions by what kills you when they're wrong | You can take a real step. That bar is lower than certainty |
-| **Make** | Builds the idea into something tangible: a prototype, a draft, a model | A small thing exists that could prove you wrong |
-| **Do** | Puts it to work on real material and tests it | It has been used for real, not demonstrated |
-| **Judge** | Assesses quality and fit against the intent. Can judge any part of the work, including the believers and the critics | A judgment exists that someone other than the maker would sign |
-| **Decide** | Chooses a direction from the judgment: go left, go right, adopt, abandon or run the loop again | The choice is written down with its reason |
-| **Execute** | Ships it and runs it | Strangers can see it, which makes it production |
+| **Ideate** | Creates ideas. Generates options without killing them. Ideators observe, mix observation with memory, and frame ideas in words or pictures that others can use | There are more options than feel comfortable, and some are strange |
+| **Think** | Turns ideas into systems: what the parts are, how they connect, what goes in and what comes out. Writes down every "this only works if" and ranks the assumptions by what kills you when they're wrong | A system someone could build from. That bar is lower than certainty |
+| **Make** | Uses the system to create its inputs and outputs: a prototype, a draft, a model, the first real product | A small thing exists that could prove you wrong |
+| **Do** | Runs the system, again and again, until it has a repeatable motion | It has run for real, more than once, not as a demonstration |
+| **Judge** | Judges the results against the intent. Its output is opportunities: to change how something is thought about, made or done in the system. Can judge any part of the work, including the believers and the critics | A judgment, with its opportunities, that someone other than the maker would sign |
+| **Decide** | Chooses which opportunities to act on and which direction to take: go left, go right, adopt, abandon or run the loop again | The choice is written down with its reason |
+| **Execute** | Orchestrates everything: sets priorities, timing and resources across the other energies, and brings the work to market | The energies are coordinated and the work is in front of customers. If strangers can see it, it's production |
 | **Archive** | Keeps the work, the decision and the lesson so they can be found and reused | A later reader could pick it up without asking you |
 
 ## Energies and quanta, not stages
@@ -65,7 +65,9 @@ So the model is a graph: energies are nodes, and taps between them are edges. Se
 
 ## Parallel energies and the messages between them
 
-All eight energies run at the same time. At any moment each one has two readings:
+The work moves like this. Ideation creates ideas. Thinking turns ideas into systems. Making uses those systems to create inputs and outputs. Doing runs the system until it has a repetitive motion. Judging assesses the results, and its output is opportunities to change how something is done, made or thought about in the system. Deciding picks which opportunities to act on. Archiving keeps all of it. **Execution orchestrates everything.**
+
+That's a description of the flow, not an order of execution. All eight energies run at the same time. At any moment each one has two readings:
 
 - **Level of energy:** how much attention and effort it's getting right now, from none to full.
 - **Level of done:** how close it is to its next quantum.
@@ -76,13 +78,15 @@ The energies coordinate by passing messages. Each one **demands inputs** it need
 
 | From | To | Message |
 |---|---|---|
-| Make | Think | Demand: which assumption must this prototype test? |
-| Think | Make | Output: the top of the kill list, graded |
-| Do | Judge | Output: what happened when real people used it |
-| Judge | Decide | Output: a verdict someone other than the maker would sign |
-| Decide | Execute | Output: go, with this scope, by this date |
-| Execute | Make | Demand: a fix for the defect customers hit |
-| Execute | Archive | Output: the release and its decision record |
+| Ideate | Think | Output: ideas worth building a system around |
+| Make | Think | Demand: how should these parts connect? |
+| Think | Make | Output: a system, with its inputs and outputs named |
+| Make | Do | Output: a working version to run |
+| Do | Judge | Output: results from running it again and again |
+| Judge | Think, Make or Do | Output: opportunities to change how it's thought about, made or done |
+| Judge | Decide | Output: the opportunities, with a verdict someone other than the maker would sign |
+| Decide | Execute | Output: which opportunities to act on, with scope and date |
+| Execute | All energies | Orchestration: what runs now, at what level of energy, with what resources |
 | Archive | Ideate | Output: the lessons of the last loop |
 
 Reading a team this way, energy by energy and message by message, shows what's blocking the idea from reaching market: an energy with no effort on it, a demand nobody is answering, or an output nobody picked up.
@@ -130,6 +134,7 @@ The model was designed for groups: in particular the first 20 people in an organ
 
 ## Change log
 
+- 1.3 (October 17, 2026): what each energy produces, as stated by Rob Tyrie: ideas, systems, inputs and outputs, repetitive motion, results that become opportunities. Execute orchestrates everything rather than only shipping.
 - 1.2 (October 17, 2026): the goal for a for-profit enterprise is getting the idea to market; all energies run in parallel, each with a level of energy and a level of done, and coordinate by demanding inputs and giving outputs, as stated by Rob Tyrie.
 - 1.1 (October 17, 2026): no order of execution. Each energy reaches a quantum before it taps the others, as stated by Rob Tyrie. The "Done when" column becomes each energy's quantum, and "backward edges" become taps.
 - 1.0 (October 17, 2026): accepted. Rob confirmed the order (ideate, think, make, do, judge, decide, execute, archive) and the 2022 origin, with Execute and Archive added later so the model is complete and reproduces itself.
