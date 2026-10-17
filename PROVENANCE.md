@@ -2,7 +2,7 @@
 
 This file records where NeoLibrary came from, using dated primary sources. Anything not backed by a primary source is marked as such.
 
-**Owner:** Ironstone Advisory (wholly owned by Rob Tyrie).
+**Owner:** Ironstone Advisory, wholly owned by Rob Tyrie. Ironstone Advisory operates as a numbered company; the registered name will be added after counsel's review.
 **Author of the concept and the name:** Rob Tyrie.
 
 ## How to read this record
@@ -31,10 +31,13 @@ Evidence copies are held by Ironstone Advisory in a private archive (`neolibrary
 | May 1 and May 5, 2024 | Rob explores an agentic knowledge base (Keymate) | Primary (email) |
 | May 20, 2024, 7:26 pm | Rob sends "GSG - Neo-Library - Genned Draft Proposal": first use of the name found | Primary (email) |
 | May 20, 2024, 7:30 pm | Rob: "I like the term Neo-Library" | Primary (email) |
+| May 22, 2024 | "IronStone Eclipse - 2024 - Working Paper": Ironstone Eclipse Labs deck. Mission: capture value from compute, algorithms, mathematics and memory. Last slide: "The Guiding Bibliography - The NeoLibrary". First Ironstone-branded use of the name | Primary (Drive) |
 | May 24, 2024 | Rob posts the NeoLibrary concept and requirements spec to a group for the first time, noting he generated it in about an hour | Primary (WhatsApp, Drive); AI-assisted document |
 | May 24, 2024 | Drive file "Neolibrary_Concept_and_Requirements" created, owner Rob | Primary (Drive) |
+| Jun 13, 2024 | Ironstone business plan checklist includes section 10, "Technology Stack & NeoLibrary" | Primary (Drive); AI-assisted document |
 | Jun 2024 (exact date pending export) | Rob writes up **MetaRAG** (grounding LLMs in a consensus library of books) and generalizes it into the NeoLibrary as a semantic knowledge graph of books, with a Dynamic Semantic Data Layer for enterprise data warehouses. His notes state: "All the work is by Ironstone advisory written by Rob Tyrie". Edited copy: [docs/history/2024-06-metarag-and-neolibrary.md](docs/history/2024-06-metarag-and-neolibrary.md) | Primary (Rob's own words, Claude account); AI-assisted edit |
 | Sep 4-5, 2024 | "How did you do that?" thread: Rob writes "I'm going to build the #neo-library" and describes it as "something I've called the neo Library" | Primary (email) |
+| Sep 10, 2024 | Rob's op-ed on AI-enhanced "memory objects" that start simple and unfold into depth: an early form of knowledge objects. Copy: [docs/history/2024-09-10-memory-objects-op-ed.md](docs/history/2024-09-10-memory-objects-op-ed.md) | Primary (Drive); AI-assisted document |
 | Sep 19, 2024 | Rob produces "The NeoLibrary: Reimagining Knowledge in the Age of AI": an adaptive knowledge engine for small human-AI teams, a four-layer architecture (repository, AI augmentation, human interface, distribution), and "Neolibrarians" as its custodians. No Guild framing. Copies: [Reimagining Knowledge](docs/history/2024-09-19-neolibrary-reimagining-knowledge.md) and a second same-day draft, [Illuminating the Digital Frontier](docs/history/2024-09-19-neolibrary-illuminating-digital-frontier.md) | Primary (file); AI-assisted document |
 | Oct 3, 2024 | Chuck Metz sends "NEOLIBRARY Addressing Key Challenges" (PDF, SHA-256 `8d94818567439f03fccfe7975f16239fd1d83bb4d486d1ce30e5fc3ea17ce379`) | Primary (email) |
 | Oct 17, 2024 | Coding call with Patrick McDonald on a separate, data-first build | Primary (calendar/email) |
