@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | Author | Rob Tyrie, Ironstone Advisory |
-| Version | 1.3 |
+| Version | 1.4 |
 | Status | Accepted |
 | Date | October 17, 2026 |
 | Also called | The creator model, the creation model, Seven Energies, Eight Energies |
@@ -27,9 +27,9 @@ The Ironstone Creation Model describes how an idea becomes something that exists
 
 Ideation creates ideas. Thinking turns them into systems. Making uses the systems to create inputs and outputs. Doing runs the system until it repeats. Judging assesses the results, and its output is opportunities to change how something is thought about, made or done. Deciding picks which opportunities to act on, and archiving keeps the work and its lessons. Execution orchestrates everything.
 
-There is no order of execution. All eight run in parallel, each at its own level of energy and its own level of done, trading messages: each demands the inputs it needs and hands on the outputs it has. Archive handing Ideate the lessons of the last loop is how the model reproduces itself.
+There is no order of execution. All eight run in parallel, each at its own level of energy and its own level of done, trading messages: each demands the inputs it needs and hands on the outputs it has. Every energy needs retrievable memory: each reads what came before and writes down what it learns. Archive handing Ideate the lessons of the last loop is how the model reproduces itself.
 
-Fans, skeptics, and regulation and law act on the work from outside. AI now takes part in every energy, which makes ideas cheap and makes judgment and a well-kept archive scarce.
+Fans, skeptics, and regulation and law act on the work from outside.
 
 ## Summary
 
@@ -50,7 +50,7 @@ Creation starts before analysis. It starts when an idea, a question, a pressure 
 | **Judge** | Judges the results against the intent. Its output is opportunities: to change how something is thought about, made or done in the system. Can judge any part of the work, including the believers and the critics | A judgment, with its opportunities, that someone other than the maker would sign |
 | **Decide** | Chooses which opportunities to act on and which direction to take: go left, go right, adopt, abandon or run the loop again | The choice is written down with its reason |
 | **Execute** | Orchestrates everything: sets priorities, timing and resources across the other energies, and brings the work to market | The energies are coordinated and the work is in front of customers. If strangers can see it, it's production |
-| **Archive** | Keeps the work, the decision and the lesson so they can be found and reused | A later reader could pick it up without asking you |
+| **Archive** | Keeps the work, the decision and the lesson, and keeps them retrievable by every other energy | A later reader could pick it up without asking you |
 
 ## Energies and quanta, not stages
 
@@ -87,9 +87,17 @@ The energies coordinate by passing messages. Each one **demands inputs** it need
 | Judge | Decide | Output: the opportunities, with a verdict someone other than the maker would sign |
 | Decide | Execute | Output: which opportunities to act on, with scope and date |
 | Execute | All energies | Orchestration: what runs now, at what level of energy, with what resources |
+| Any energy | Archive | Output: what it just made, ran, judged or decided, and what it learned |
+| Archive | Any energy | Output, on demand: what was tried before, what happened, and why |
 | Archive | Ideate | Output: the lessons of the last loop |
 
 Reading a team this way, energy by energy and message by message, shows what's blocking the idea from reaching market: an energy with no effort on it, a demand nobody is answering, or an output nobody picked up.
+
+## Every energy needs retrievable memory
+
+Memory isn't only Archive's job. Every energy has to be able to retrieve what came before and to write down what it learns, or it starts from nothing each time. Ideate retrieves old ideas and the reasons they were dropped. Think retrieves the systems already built and the assumptions that failed. Make and Do retrieve the last version and how it ran. Judge retrieves past verdicts, so the same flaw isn't judged twice. Decide retrieves past decisions and their reasons. Execute retrieves the state of every energy, which is what makes orchestration possible.
+
+Archive is the energy that keeps all of that retrievable. The test is retrieval, not storage: if an energy can't find what it needs when it needs it, the memory doesn't exist. This is the job NeoLibrary is built to do ([RFC-0001](RFC-0001-definitions.md)): every knowledge object keeps its sources, so any energy can find it and trust it.
 
 ## Recursion
 
@@ -134,6 +142,7 @@ The model was designed for groups: in particular the first 20 people in an organ
 
 ## Change log
 
+- 1.4 (October 17, 2026): every energy needs retrievable memory, as stated by Rob Tyrie, who also confirmed the readings of Decide and Archive.
 - 1.3 (October 17, 2026): what each energy produces, as stated by Rob Tyrie: ideas, systems, inputs and outputs, repetitive motion, results that become opportunities. Execute orchestrates everything rather than only shipping.
 - 1.2 (October 17, 2026): the goal for a for-profit enterprise is getting the idea to market; all energies run in parallel, each with a level of energy and a level of done, and coordinate by demanding inputs and giving outputs, as stated by Rob Tyrie.
 - 1.1 (October 17, 2026): no order of execution. Each energy reaches a quantum before it taps the others, as stated by Rob Tyrie. The "Done when" column becomes each energy's quantum, and "backward edges" become taps.

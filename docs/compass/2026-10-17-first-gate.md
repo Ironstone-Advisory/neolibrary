@@ -67,3 +67,7 @@ Read against the RFC FS02 indicators. The message table uses concrete examples, 
 ## Addendum: RFC-0005 1.3 and RFC-0004 1.3 (October 17, 2026)
 
 Read against the RFC FS02 indicators. Each energy's output is stated concretely (ideas, systems, inputs and outputs, repeated runs, opportunities). Pass.
+
+## Addendum: RFC-0005 1.4 (October 17, 2026)
+
+Read against the RFC FS02 indicators. "Retrievable memory" is given a test (retrieval, not storage) and concrete examples per energy. Pass.
