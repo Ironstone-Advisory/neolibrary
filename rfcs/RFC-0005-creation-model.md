@@ -3,10 +3,10 @@
 | | |
 |---|---|
 | Author | Rob Tyrie, Ironstone Advisory |
-| Version | 1.6 |
+| Version | 1.7 |
 | Status | Accepted |
 | Date | October 17, 2026 |
-| Also called | The creator model, the creation model, Seven Energies, Eight Energies, the eleven energies |
+| Also called | The creator model, the creation model, Seven Energies, Eight Energies |
 | License | [CC BY 4.0](../LICENSE-docs) |
 
 ## Site summaries
@@ -19,7 +19,7 @@ Creation needs eight kinds of work, with execution orchestrating the rest, and m
 
 **50 words**
 
-The Ironstone Creation Model names eight intrinsic energies a company controls: ideate, think, make, do, judge, decide, execute and archive, with execute orchestrating the rest. Three extrinsic energies it doesn't control, fans, skeptics and the law, act from outside. Feedback loops run across all eleven, in parallel, to take ideas to market.
+The Ironstone Creation Model names eight intrinsic energies a company controls: ideate, think, make, do, judge, decide, execute and archive, with execute orchestrating the rest. Four extrinsic energies it doesn't control, fans, skeptics, competition and the law, act from outside. Feedback loops run across all twelve, in parallel, to take ideas to market.
 
 **200 words**
 
@@ -29,11 +29,11 @@ Ideation creates ideas. Thinking turns them into systems. Making uses the system
 
 There is no order of execution. All eight run in parallel, each at its own level of energy and its own level of done, trading messages: each demands the inputs it needs and hands on the outputs it has. Every energy needs retrievable memory. Archive handing Ideate the lessons of the last loop is how the model reproduces itself.
 
-Those eight are intrinsic: a company controls them. Three extrinsic energies come from outside and it doesn't: fans, skeptics and the law. Feedback loops run across all eleven.
+Those eight are intrinsic: a company controls them. Four extrinsic energies come from outside and it doesn't: fans, skeptics, competition and the law. Feedback loops run across all twelve.
 
 ## Summary
 
-The Ironstone Creation Model describes how something goes from an idea to a thing that exists, is used and is kept. It names the kinds of work creation needs, which I call **energies**. Eight are intrinsic, controlled by the company: ideate, think, make, do, judge, decide, execute and archive. Three are extrinsic and outside its control: fans, skeptics and the law. Feedback loops run across all eleven. Most people and most teams are strong in two or three of them. The model exists so you can see which energies are present, which are missing, and what has to happen next.
+The Ironstone Creation Model describes how something goes from an idea to a thing that exists, is used and is kept. It names the kinds of work creation needs, which I call **energies**. Eight are intrinsic, controlled by the company: ideate, think, make, do, judge, decide, execute and archive. Four are extrinsic and outside its control: fans, skeptics, competition and the law. Feedback loops run across all twelve. Most people and most teams are strong in two or three of them. The model exists so you can see which energies are present, which are missing, and what has to happen next.
 
 The list is a naming order, not an execution order. There is no fixed sequence in a model like this.
 
@@ -105,19 +105,20 @@ The whole model runs again inside any single energy, governed by that energy. In
 
 ## Intrinsic and extrinsic energies
 
-The model has eleven energies in two groups.
+The model has twelve energies in two groups.
 
 **The eight intrinsic energies** are the foundation: ideate, think, make, do, judge, decide, execute and archive. A company controls them. It decides how much effort each one gets, who carries it and what it produces.
 
-**The three extrinsic energies** come from outside, and a company doesn't control them:
+**The four extrinsic energies** come from outside, and a company doesn't control them:
 
 | Extrinsic energy | What it brings |
 |---|---|
 | **Fans** | Belief, adoption, word of mouth, early demand. They pull the work forward |
-| **Skeptics** | Critics, competitors, doubters. They test whether the work holds up |
+| **Skeptics** | Critics and doubters. They test whether the work holds up |
+| **Competition** | Rivals and substitutes chasing the same customers, talent, attention and money. They set the bar and the clock |
 | **The law** | Regulation, contracts, rights and obligations. It sets what the work is allowed to be |
 
-**Feedback loops run across all eleven.** Fans' demand feeds Ideate and Execute. A skeptic's attack feeds Judge and Think. A new rule feeds Think and Decide, and can stop Execute outright. The intrinsic energies push back the other way: what Execute ships creates fans and skeptics, and what Archive keeps is the record the law will ask for. A company can't control the extrinsic energies, but it can listen to them, prepare for them and design for them.
+**Feedback loops run across all twelve.** Fans' demand feeds Ideate and Execute. A skeptic's attack feeds Judge and Think. A competitor's move feeds Think (how you're positioned), Judge (what good now looks like) and Execute (when to move and at what price). A new rule feeds Think and Decide, and can stop Execute outright. The intrinsic energies push back the other way: what Execute ships creates fans, skeptics and a competitive response, and what Archive keeps is the record the law will ask for. A company can't control the extrinsic energies, but it can listen to them, prepare for them and design for them.
 
 That's why the internal skeptic matters. Judging honestly inside the team, before strangers do it, is what makes the outside skeptics survivable. In the NeoLibrary repos the internal skeptic is an aspect that wraps every intrinsic energy ([RFC-0004](RFC-0004-how-we-build.md)).
 
@@ -171,6 +172,7 @@ The model was designed for groups: in particular the first 20 people in an organ
 
 ## Change log
 
+- 1.7 (October 17, 2026): competition added as a fourth extrinsic energy, Rob Tyrie's new learning of the day. Competitors move out of Skeptics into Competition. Twelve energies in all.
 - 1.6 (October 17, 2026): intrinsic and extrinsic energies. The eight foundation energies are intrinsic (a company controls them); fans, skeptics and the law are extrinsic; feedback loops run across all eleven, as stated by Rob Tyrie.
 - 1.5 (October 17, 2026): records that the model was used to create NeoLibrary and is how Rob builds prompt-based AI agents, as stated by Rob Tyrie; the 2023 prompt-sequence remark quoted from the Pi transcript.
 - 1.4 (October 17, 2026): every energy needs retrievable memory, as stated by Rob Tyrie, who also confirmed the readings of Decide and Archive.

@@ -79,3 +79,7 @@ Read against the RFC FS02 indicators. The July 2023 remark is paraphrased from t
 ## Addendum: RFC-0005 1.6 (October 17, 2026)
 
 Read against the RFC FS02 indicators. Intrinsic and extrinsic are defined by one test (does the company control it), with examples of each feedback loop. Pass.
+
+## Addendum: RFC-0005 1.7 (October 17, 2026)
+
+Read against the RFC FS02 indicators. Competition is defined concretely (rivals and substitutes for the same customers, talent, attention and money) and separated from Skeptics to avoid overlap. Pass.
