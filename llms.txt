@@ -18,6 +18,7 @@
 ## Background
 
 - [Framework: DAC-EK and the NeoLibrary Helix](https://github.com/Ironstone-Advisory/neolibrary/blob/main/docs/framework.md)
+- [Creator Model Research Note 001: language, flows, stores and a pattern language (exploratory, not canonical)](https://github.com/Ironstone-Advisory/neolibrary/blob/main/docs/research/creator-model-note-001.md)
 - [Architecture](https://github.com/Ironstone-Advisory/neolibrary/blob/main/docs/architecture.md)
 - [MetaRAG and the NeoLibrary (June 2024)](https://github.com/Ironstone-Advisory/neolibrary/blob/main/docs/history/2024-06-metarag-and-neolibrary.md)
 - [Provenance: dated history of the idea](https://github.com/Ironstone-Advisory/neolibrary/blob/main/PROVENANCE.md)

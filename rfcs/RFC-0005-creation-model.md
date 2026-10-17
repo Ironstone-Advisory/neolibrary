@@ -159,6 +159,12 @@ The model started in 2022 with fewer energies. I added Execute and Archive later
 
 The model was designed for groups: in particular the first 20 people in an organization taking digital ideas to their first few million dollars of revenue. It also works for one person moving between energies. Physical goods follow a different model.
 
+## Research notes
+
+Exploratory notes extend the model without changing it. They aren't canonical; where one disagrees with this RFC, the RFC wins.
+
+- [Creator Model Research Note 001](../docs/research/creator-model-note-001.md) (October 17, 2026): language, flows and stores, and toward an Alexander-inspired pattern language.
+
 ## History
 
 | Date | Version | What changed | Source |

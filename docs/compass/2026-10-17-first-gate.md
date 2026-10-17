@@ -83,3 +83,16 @@ Read against the RFC FS02 indicators. Intrinsic and extrinsic are defined by one
 ## Addendum: RFC-0005 1.7 (October 17, 2026)
 
 Read against the RFC FS02 indicators. Competition is defined concretely (rivals and substitutes for the same customers, talent, attention and money) and separated from Skeptics to avoid overlap. Pass.
+
+## Addendum: Creator Model Research Note 001 (October 17, 2026, evening)
+
+The v1 code still fails calibration, so the note was read against the nine RFC FS02 indicators.
+
+| Indicator | Reading | Decision |
+|---|---|---|
+| Assertion ambiguity | "Sufficiently organized systems" (sections 2 and 6) is undefined | Accepted: the note labels the proposition a hypothesis and asks the defining question itself (open question 2) |
+| Semantic drift | Section 3 lists three extrinsic energies, including "Regulation (the Law)"; RFC-0005 1.7 has four, with the law covering regulation, contracts, rights and obligations | Accepted: the text is kept as written and a reading note at the top states the difference and that the RFC wins |
+| Pseudoscience rhetoric | Comparing companies with ant colonies and ecosystems could overclaim | Pass: the note itself says functional similarity doesn't establish identical mechanisms |
+| Buzzword load, tautology, ideological smuggling, emotional persuasion, Orwellian or data-presentation obfuscation | None material | Pass |
+
+Christopher Alexander's *A Pattern Language* (1977) is credited. The note is Rob's text; Claude added formatting, the reading note and the reference, as listed in the note's Provenance section.
