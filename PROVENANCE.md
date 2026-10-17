@@ -25,6 +25,7 @@ Evidence copies are held by Ironstone Advisory in a private archive (`neolibrary
 
 | Date | Event | Type |
 |---|---|---|
+| Jul 2, 2023 | Rob describes his creator model to Pi and says its role descriptions could become prompt sequences for AI tools. He later used this model to create NeoLibrary (stated October 17, 2026); see [RFC-0005](rfcs/RFC-0005-creation-model.md) | Primary (Drive transcript, private archive) |
 | Feb 1, 2024 | Rob discusses a "Grey Swan Guild Library database" | Primary (email) |
 | Apr 2024 and earlier | Rob conceives the idea while solving Ironstone and Guild knowledge problems | Recollection |
 | Apr 28, 2024 | Rob writes about semantic layers and knowledge graphs; Chuck Metz suggests Obsidian | Primary (email) |

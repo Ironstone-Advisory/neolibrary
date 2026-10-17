@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | Author | Rob Tyrie, Ironstone Advisory |
-| Version | 1.4 |
+| Version | 1.5 |
 | Status | Accepted |
 | Date | October 17, 2026 |
 | Also called | The creator model, the creation model, Seven Energies, Eight Energies |
@@ -121,6 +121,21 @@ AI can take part in every energy, and the model was framed from the start as a f
 
 The person leads; the tools amplify.
 
+## What I've built with it
+
+**NeoLibrary.** I used this model to create NeoLibrary, and the NeoLibrary repos are still governed by it ([RFC-0004](RFC-0004-how-we-build.md)).
+
+**Prompt-based AI agents.** It's also how I build AI agents from prompts. I saw this coming in July 2023, when I said the model's "definitions and role descriptions" could be used as prompt sequences for AI tools, to generate ideas, systems and useful products and services. In an agent built this way, the parts of the model map directly:
+
+| In the model | In a prompt-based agent |
+|---|---|
+| An energy | A role, with its own prompt: what it does and what it produces |
+| A quantum | The output the role must produce before anything is handed on |
+| Demands and outputs | The messages between roles: what each one asks for and returns |
+| Retrievable memory | A shared store every role reads before it starts and writes to when it's done |
+| Execute | The orchestrator that decides which role runs, when, and with what inputs |
+| The skeptic | A critic role called into any step, never left to grade its own work |
+
 ## Why eight: a model that reproduces itself
 
 The model started in 2022 with fewer energies. I added Execute and Archive later, for two reasons. Without Execute, nothing reaches the people it was made for. Without Archive, every loop starts from nothing. Archive is what makes the model reproduce itself: a finished loop, written down, becomes the raw material for the next Ideate, so each cycle seeds the one after it.
@@ -142,6 +157,7 @@ The model was designed for groups: in particular the first 20 people in an organ
 
 ## Change log
 
+- 1.5 (October 17, 2026): records that the model was used to create NeoLibrary and is how Rob builds prompt-based AI agents, as stated by Rob Tyrie; the 2023 prompt-sequence remark quoted from the Pi transcript.
 - 1.4 (October 17, 2026): every energy needs retrievable memory, as stated by Rob Tyrie, who also confirmed the readings of Decide and Archive.
 - 1.3 (October 17, 2026): what each energy produces, as stated by Rob Tyrie: ideas, systems, inputs and outputs, repetitive motion, results that become opportunities. Execute orchestrates everything rather than only shipping.
 - 1.2 (October 17, 2026): the goal for a for-profit enterprise is getting the idea to market; all energies run in parallel, each with a level of energy and a level of done, and coordinate by demanding inputs and giving outputs, as stated by Rob Tyrie.

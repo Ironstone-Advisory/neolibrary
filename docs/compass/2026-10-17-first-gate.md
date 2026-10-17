@@ -71,3 +71,7 @@ Read against the RFC FS02 indicators. Each energy's output is stated concretely 
 ## Addendum: RFC-0005 1.4 (October 17, 2026)
 
 Read against the RFC FS02 indicators. "Retrievable memory" is given a test (retrieval, not storage) and concrete examples per energy. Pass.
+
+## Addendum: RFC-0005 1.5 and PROVENANCE (October 17, 2026)
+
+Read against the RFC FS02 indicators. The July 2023 remark is paraphrased from the private transcript with its source named; the claim that NeoLibrary was built with the model is attributed to Rob's October 17, 2026 statement. Pass.
