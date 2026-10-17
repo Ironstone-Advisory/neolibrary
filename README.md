@@ -1,12 +1,23 @@
 # NeoLibrary
 
+*By Rob Tyrie, Ironstone Advisory · [ironstoneadvisory.com](https://ironstoneadvisory.com) · [@robtyrie](https://github.com/robtyrie)*
+
 **NeoLibrary is an open engine that turns raw material into knowledge objects you can trace.**
 
 It is a series of interconnected layers that let data be accessed, researched, combined, synthesized, published and tracked, so that it becomes new **knowledge objects** and **wisdom objects**. Every object carries its provenance: where it came from, who touched it, and what it was built from.
 
 The base engine is free and open source under Apache 2.0. Commercial plugins and services are offered separately by Ironstone Advisory.
 
-> Status: early. This repo holds the architecture, the framework, the plugin contract and the provenance record. Working code lands here next.
+> Status: early. This repo holds the canonical definitions ([RFCs](rfcs/)), the architecture, the framework, the plugin contract and the provenance record. Working code lands here next.
+
+## Start here
+
+| If you want to know | Read |
+|---|---|
+| What NeoLibrary, MetaRAG and a knowledge object are | [RFC-0001: definitions and scope](rfcs/RFC-0001-definitions.md) |
+| The rules every knowledge object follows | [RFC-0002: knowledge objects and the provenance spine](rfcs/RFC-0002-knowledge-objects-and-provenance.md) |
+| How to extend it, and what's open vs. commercial | [RFC-0003: plugin contract](rfcs/RFC-0003-plugin-contract.md) |
+| Where the idea came from | [MetaRAG and the NeoLibrary (June 2024)](docs/history/2024-06-metarag-and-neolibrary.md) and [PROVENANCE.md](PROVENANCE.md) |
 
 ---
 
@@ -82,4 +93,12 @@ NeoLibrary was conceived, named and developed by Rob Tyrie. It is owned by **Iro
 
 "NeoLibrary" is a trademark of Ironstone Advisory. The Apache 2.0 license does not grant rights to the name; see [NOTICE](NOTICE).
 
-Copyright 2024-2026 Ironstone Advisory. Licensed under the [Apache License, Version 2.0](LICENSE).
+## License
+
+- **Code** (`src/`, `tests/`): [Apache License 2.0](LICENSE).
+- **Documents** (`rfcs/`, `docs/`, and the Markdown files in this repo): [CC BY 4.0](LICENSE-docs). Share and adapt them freely; credit "Rob Tyrie, Ironstone Advisory".
+- **Name:** "NeoLibrary" is a trademark of Ironstone Advisory; see [NOTICE](NOTICE).
+
+To cite NeoLibrary, use [CITATION.cff](CITATION.cff). A machine-readable index of the canonical documents is in [llms.txt](llms.txt).
+
+Copyright 2024-2026 Ironstone Advisory.

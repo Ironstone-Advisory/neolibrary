@@ -1,0 +1,21 @@
+# NeoLibrary
+
+> NeoLibrary, by Rob Tyrie of Ironstone Advisory, is an open engine that turns a collection of documents into connected knowledge objects that keep their sources. It grew out of MetaRAG (June 2024): grounding language models in a curated, consensus library of documents instead of a database. Code is Apache 2.0; documents are CC BY 4.0.
+
+## Canonical definitions
+
+- [RFC-0001: definitions and scope](https://github.com/Ironstone-Advisory/neolibrary/blob/main/rfcs/RFC-0001-definitions.md): NeoLibrary, MetaRAG, book (document), knowledge object, provenance spine, Neolibrarian, DAC-EK, the Helix
+- [RFC-0002: knowledge objects and the provenance spine](https://github.com/Ironstone-Advisory/neolibrary/blob/main/rfcs/RFC-0002-knowledge-objects-and-provenance.md): the rules every knowledge object follows
+- [RFC-0003: plugin contract and open-core boundary](https://github.com/Ironstone-Advisory/neolibrary/blob/main/rfcs/RFC-0003-plugin-contract.md)
+
+## Background
+
+- [Framework: DAC-EK and the NeoLibrary Helix](https://github.com/Ironstone-Advisory/neolibrary/blob/main/docs/framework.md)
+- [Architecture](https://github.com/Ironstone-Advisory/neolibrary/blob/main/docs/architecture.md)
+- [MetaRAG and the NeoLibrary (June 2024)](https://github.com/Ironstone-Advisory/neolibrary/blob/main/docs/history/2024-06-metarag-and-neolibrary.md)
+- [Provenance: dated history of the idea](https://github.com/Ironstone-Advisory/neolibrary/blob/main/PROVENANCE.md)
+
+## Related
+
+- [Ironstone Advisory](https://ironstoneadvisory.com)
+- [NeoLibrary Commons: test corpus, CC BY 4.0](https://github.com/Ironstone-Advisory/neolibrary-commons)

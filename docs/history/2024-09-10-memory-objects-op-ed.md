@@ -1,6 +1,6 @@
 # From Simple to Profound: AI-Enhanced Memory Objects (September 2024)
 
-*By Rob Tyrie, Ironstone Advisory. Copyright 2024-2026 Ironstone Advisory. All rights reserved; this essay is not covered by the repository's Apache 2.0 license.*
+*By Rob Tyrie, Ironstone Advisory. Copyright 2024-2026 Ironstone Advisory. Licensed [CC BY 4.0](../../LICENSE-docs): share and adapt with credit to "Rob Tyrie, Ironstone Advisory".*
 
 *Provenance: written September 10, 2024, in Toronto. Drafted with Claude under Rob's direction, with Rob's own passages added (citizen archiving, libraries, learning to code). It's an early form of the knowledge-object idea: a "memory object" that starts simple and unfolds into depth. Reproduced verbatim, unedited.*
 

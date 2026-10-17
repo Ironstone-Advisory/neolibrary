@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use or build on NeoLibrary, please cite it as below."
+title: "NeoLibrary: an open engine that turns documents into traceable knowledge objects"
+type: software
+authors:
+  - family-names: Tyrie
+    given-names: Rob
+    affiliation: Ironstone Advisory
+    website: "https://ironstoneadvisory.com"
+repository-code: "https://github.com/Ironstone-Advisory/neolibrary"
+url: "https://ironstoneadvisory.com"
+license: Apache-2.0
+version: 0.0.1
+date-released: 2026-10-17
+keywords:
+  - NeoLibrary
+  - MetaRAG
+  - knowledge objects
+  - provenance
+  - retrieval-augmented generation
+  - knowledge graph
+  - DAC-EK
+  - Ironstone Advisory

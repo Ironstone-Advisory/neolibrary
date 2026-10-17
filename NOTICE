@@ -1,6 +1,11 @@
 NeoLibrary
 Copyright 2024-2026 Ironstone Advisory
 
+Code is licensed under the Apache License, Version 2.0 (LICENSE).
+Documents (rfcs/, docs/ and Markdown files) are licensed under
+Creative Commons Attribution 4.0 (LICENSE-docs). Credit: Rob Tyrie,
+Ironstone Advisory.
+
 This product includes software developed by Ironstone Advisory.
 Ironstone Advisory is the operating name of a numbered company wholly
 owned by Rob Tyrie.

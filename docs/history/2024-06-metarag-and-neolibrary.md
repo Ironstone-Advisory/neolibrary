@@ -1,6 +1,6 @@
 # MetaRAG and the NeoLibrary (June 2024)
 
-*By Rob Tyrie, Ironstone Advisory. Copyright 2024-2026 Ironstone Advisory. All rights reserved; this essay is not covered by the repository's Apache 2.0 license.*
+*By Rob Tyrie, Ironstone Advisory. Copyright 2024-2026 Ironstone Advisory. Licensed [CC BY 4.0](../../LICENSE-docs): share and adapt with credit to "Rob Tyrie, Ironstone Advisory".*
 
 *Provenance: Rob's own notes, written in June 2024 in his Claude account. This copy was lightly edited and reordered in October 2026 with AI assistance, with nothing taken out. The verbatim 2024 originals are held in Ironstone's private provenance archive.*
 
