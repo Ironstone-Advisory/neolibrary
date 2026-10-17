@@ -47,5 +47,6 @@ Source file: [images/neolibrary-helix-v2-draft.svg](images/neolibrary-helix-v2-d
 | Term | Working definition |
 |---|---|
 | Knowledge object | A unit of synthesized knowledge with its content, its sources, and its lineage attached |
+| Book (document) | "Book" and "document" mean the same thing: a collection of knowledge objects, with its full structure (contents, ordering, sections, summaries, notes, references, index). A library is a collection of books |
 | Wisdom object | To be defined (open question 4) |
 | Provenance | The recorded chain from a source to every object built from it |
