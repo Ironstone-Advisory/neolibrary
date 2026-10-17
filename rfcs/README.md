@@ -11,7 +11,7 @@ These RFCs are the canonical definition of NeoLibrary. If code, a README or a sl
 | [RFC-0003](RFC-0003-plugin-contract.md) | The plugin contract and the open-core boundary | 1.0 | Accepted |
 | [RFC-0004](RFC-0004-how-we-build.md) | How NeoLibrary is built: the creative flow and the skeptic gate | 1.0 | Accepted |
 | [RFC-0005](RFC-0005-creation-model.md) | The Ironstone Creation Model (the creator model) | 0.9 | Draft |
-| [RFC-0006](RFC-0006-critical-thinking-cube.md) | The Ironstone Critical Thinking Cube | 0.9 | Draft |
+| [RFC-0006](RFC-0006-critical-thinking-cube.md) | The Ironstone Critical Thinking Cube | 1.0 | Accepted |
 | [RFC-0007](RFC-0007-evidence-ladder.md) | The Evidence Ladder | 0.9 | Draft |
 
 RFCs 0005 to 0007 define Ironstone methods that NeoLibrary is built with. They are summarized for clients on [Ironstone Methods](https://www.ironstoneadvisory.com/what-we-do/ironstone-methods); these RFCs are the full definitions.

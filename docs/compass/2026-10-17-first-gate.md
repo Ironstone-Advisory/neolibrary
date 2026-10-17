@@ -43,3 +43,7 @@ The v1 code still fails calibration, so these were read against the nine RFC FS0
 | RFC-0007 Evidence Ladder | None material. Grades and rules are specific and checkable | Pass |
 
 All three are labelled AI-assisted, with the share of the work that was AI stated in each history table.
+
+## Addendum: RFC-0006 version 1.0 (October 17, 2026)
+
+Read against the RFC FS02 indicators. The cognitive-psychology rationale from the September 2024 version was not carried into 1.0, so the pseudoscience flag no longer applies. The 5 Wise section requires simulated points of view to be labelled as simulations, which covers assertion ambiguity. Cynefin is credited to Dave Snowden. Pass.

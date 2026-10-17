@@ -3,122 +3,144 @@
 | | |
 |---|---|
 | Author | Rob Tyrie, Ironstone Advisory |
-| Version | 0.9 |
-| Status | Draft (awaiting Rob's confirmation of the v2 faces) |
+| Version | 1.0 |
+| Status | Accepted |
 | Date | October 17, 2026 |
-| Also called | The Ironstone Cube, the Critical Cube |
+| Also called | The Critical Cube, the Ironstone Cube |
 | License | [CC BY 4.0](../LICENSE-docs) |
 
 ## Summary
 
-A difficult question has more than one face. The Cube is a structured way to turn a question around before you get attached to an answer: reframe it, shift the point of view, and examine the answer from several sides. I use it for critical thinking, decisions and problem-solving, especially when the first answer is probably too easy.
+A difficult question has more than one face. The Cube is a way to turn a question around before you get attached to an answer. It has six faces, and each one is a set of five: **the 5 Ws, the 5 Whys, the 5 Hows, the 5 Whens, the 5 Wise and the 5 Weirds**. Each face's answers are then split across a SWOT grid, so you see what's strong, what's weak, what's open and what's dangerous from every side.
 
-It was built for speed. Before generative AI, analysing an enterprise-scale problem this thoroughly needed expensive outside strategy consultants. With a structured analysis prompt, a team can look at the problem space, the solution space and the change it implies in an afternoon.
+I use it for critical thinking, decisions and problem-solving, especially when the first answer is probably too easy. It was built for speed. Before generative AI, analysing an enterprise-scale problem this thoroughly needed expensive outside strategy consultants. With a structured prompt, a team can cover the problem space and the solution space in an afternoon.
 
-## The faces (v1, September 2024)
+## Before the cube: the foundation
 
-Each face asks a different kind of question. Run them in order the first time; after that, go to the face the problem needs.
+Write three lines before turning the cube at all:
 
-| Face | Questions | What it's for |
+- **Base assumption.** What are we taking as true?
+- **Context.** What's happening around this?
+- **Key question.** The one question the analysis has to answer.
+
+If you can't write the key question in one sentence, you're not ready for the cube.
+
+## The six faces
+
+| Face | Five of what | What it's for |
 |---|---|---|
-| **1. The 5 Ws** | Who, what, when, where, why | Context. Gather enough of it before solving anything |
-| **2. The 5 Whys** | Ask why five times | Root cause. Get under the first explanation |
-| **3. The 5 Hows** | How will it be done, how does it meet the need, how does it scale, how are internal problems handled, how is the advantage kept | Action. Turn analysis into steps someone can take |
-| **4. SWOT** | Strengths, weaknesses, opportunities, threats | Perspective. Switch between what's inside and what's outside |
-| **5. The 5 Wise** | Why now? Why here? Why this way? Why you? Why this impact? | Judgment. Timing, position, method, fit and long-term consequences, including ethics |
-| **6. Mental models** | First principles, systems thinking, second-order thinking (plus inversion, Pareto and Occam's razor as options) | Depth. Break the problem down and follow the consequences |
-
-The analysis closes with a summary: insights, recommendations and risks.
+| **5 Ws** | Who, what, where, when, why | Context. Gather enough of it before solving anything |
+| **5 Whys** | Ask why five times, each answer feeding the next question | Root cause. Get under the first explanation |
+| **5 Hows** | Five how-questions, each more specific than the last | Action. The fifth how should be something a person can do this week |
+| **5 Whens** | Five timing questions: when to start, first release, the next milestones, when the market is mature | Sequence. What has to happen before what, and how long it really takes |
+| **5 Wise** | Five wise points of view, chosen for this problem | Judgment. See the question through other eyes before deciding |
+| **5 Weirds** | Five "what if" questions that break an assumption | Disruption. Find the move nobody else in the room would suggest |
 
 ### The 5 Wise
 
-The 5 Wise are the Cube's reflective face, and the part that is most mine. They keep a strategy from being driven only by data.
+The 5 Wise are five points of view, and they change with the problem. For an AI product they might be an ethicist, a linguist, a business strategist, a cognitive scientist and an end user. For an insurance workflow they might be an underwriter, a broker, a regulator, a claims adjuster and the policyholder. Pick people whose disagreement would teach you something. At least one of them should be the person who has to live with the result.
 
-- **Why now?** Is this the right moment, given readiness inside and conditions outside? Would waiting, or acting early, undermine it?
-- **Why here?** Why this market, region, niche or intellectual position?
-- **Why this way?** Are the methods effective, sustainable and principled, not just fast?
-- **Why you?** Are you the right team, with the right skills and resources, or is this someone else's opportunity?
-- **Why this impact?** What does this do to customers, the industry, society and the environment over the long run?
+A wise point of view used in a write-up is a simulation of how that kind of person would see it. If you name a real person, label it as a simulation and never quote it as their words.
 
-### Why each face is there
+### The 5 Weirds
 
-The September 2024 write-up ties each face to an idea from cognitive psychology: the 5 Ws to schema activation (organizing what you already know), the 5 Whys to deep processing, the 5 Hows to planning and goal-setting, SWOT to cognitive flexibility, and the Cube as a whole to metacognition (checking your own thinking) and distributed cognition (spreading a big problem across a team). These are the design rationale, not tested claims about the brain.
+The 5 Weirds are deliberately strange. "What if the product could switch levels at will?" "What if the customer were the supplier?" Most get thrown away. One usually survives and changes the plan. Run this face after the others, when you know enough to break the right assumption.
 
-## The skeptic's cube (v2, October 2026)
+## The SWOT grid on every face
 
-In October 2026 the Cube became one of the skeptic's instruments in [RFC-0004](RFC-0004-how-we-build.md), described as six faces, each split into SWOT quadrants, with swappable lenses on each quadrant. In that form SWOT stops being one face and becomes the grid on every face, and a lens (a named critic, a stakeholder, a time horizon) can be swapped in to read each quadrant.
+Each face's answers get sorted into four quadrants: **strengths, weaknesses, opportunities and threats**. The 5 Ws in a SWOT grid show whose interests help or hurt you. The 5 Whens in a SWOT grid show which timing works for you and which works against you. Sorting every face this way is what turns six lists into a decision.
 
-The v2 face list hasn't been written down yet. Until it is, use the v1 faces.
+## After the cube: the Cynefin check
+
+Close by placing each part of the problem in a Cynefin domain (Dave Snowden's framework):
+
+- **Clear:** known answers. Apply best practice.
+- **Complicated:** answerable by experts. Analyse, then act.
+- **Complex:** unknowns that only experiments reveal. Probe, then act.
+- **Chaotic:** no stable pattern yet. Act to stabilize first.
+
+Then state how uncertain the whole picture is. The Cynefin check tells you which parts of the plan to execute and which to run as experiments.
 
 ## Using it with an AI model
 
-The 2024 Cube was run as a custom GPT with a structured TOML prompt. The prompt, as written in September 2024:
+The Cube works as a structured prompt. A model fills the faces quickly. Treat that output as a first draft: a model reading a company's website produces E0 and E1 evidence at best, so grade the claims with the [Evidence Ladder](RFC-0007-evidence-ladder.md) before acting on them. The 5 Wise and the 5 Weirds are where a model helps most and where it most needs a human to throw half of it away.
 
 ```toml
-[Ironstone_Cube_Analysis]
-company = "Your Company Name"
+[critical_cube]
+subject = "The question or company being analysed"
 
-[Ironstone_Cube_Analysis.5Ws]
-who = "Identify the target audience, stakeholders, customers, partners, and investors."
-what = "Analyze the products/services the company offers and what problems they aim to solve."
-when = "Assess the timing of their offerings (market trends, regulatory shifts, or industry changes)."
-where = "Evaluate the company's geographical focus and market positioning."
-why = "Explore the company's mission and purpose behind their strategies and offerings."
+[critical_cube.foundation]
+base_assumption = "What are we taking as true?"
+context = "What is happening around this?"
+key_question = "The one question this analysis must answer"
 
-[Ironstone_Cube_Analysis.5Whys]
-1st_why = "Why is the company pursuing its current strategy?"
-2nd_why = "Why are these methods necessary for their objectives?"
-3rd_why = "Why are the resources being allocated in this way?"
-4th_why = "Why is this a priority for the company?"
-5th_why = "Why will this approach achieve their desired outcomes?"
+[critical_cube.five_ws]
+who = ""
+what = ""
+where = ""
+when = ""
+why = ""
 
-[Ironstone_Cube_Analysis.5Hows]
-1st_how = "How does the company plan to execute its strategy?"
-2nd_how = "How are they addressing customer needs and market demands?"
-3rd_how = "How are they scaling their operations?"
-4th_how = "How are they handling internal challenges?"
-5th_how = "How do they maintain a competitive advantage?"
+[critical_cube.five_whys]
+why_1 = ""
+why_2 = "Why is the answer to why_1 true?"
+why_3 = ""
+why_4 = ""
+why_5 = "The root cause"
 
-[Ironstone_Cube_Analysis.SWOT]
-strengths = "Identify the company's competitive strengths."
-weaknesses = "Analyze potential weaknesses or gaps in their strategy."
-opportunities = "Explore market opportunities for growth or innovation."
-threats = "Identify external threats (competitors, regulations, market conditions)."
+[critical_cube.five_hows]
+how_1 = ""
+how_2 = ""
+how_3 = ""
+how_4 = ""
+how_5 = "An action someone can take this week"
 
-[Ironstone_Cube_Analysis.5Wise]
-why_now = "Why is now the right time for the company's initiatives?"
-why_here = "Why is the company positioned in this specific market or region?"
-why_this_way = "Why are they using these particular methods? Are they optimal?"
-why_you = "Why is this company uniquely suited to solve these problems?"
-why_this_impact = "What long-term impact will their actions have on the industry, society, and environment?"
+[critical_cube.five_whens]
+when_1 = "When to start"
+when_2 = "When the first version ships"
+when_3 = ""
+when_4 = ""
+when_5 = "When the market is mature"
 
-[Ironstone_Cube_Analysis.Mental_Models]
-first_principles = "Break down the company's strategy to its basic components."
-systems_thinking = "Analyze how the company's actions interact with the broader market and ecosystem."
-second_order_thinking = "Evaluate long-term consequences of their current strategy."
+[critical_cube.five_wise]
+# Five points of view chosen for this problem. Label simulations as simulations.
+points_of_view = ["", "", "", "", ""]
 
-[Ironstone_Cube_Analysis.Summary]
-insights = "Summarize the findings from the analysis."
-recommendations = "Provide critical feedback and highlight opportunities for improvement."
-risks = "Identify potential risks in the company's approach and strategy."
+[critical_cube.five_weirds]
+what_if = ["", "", "", "", ""]
+
+[critical_cube.swot]
+# Apply to every face above
+strengths = ""
+weaknesses = ""
+opportunities = ""
+threats = ""
+
+[critical_cube.cynefin]
+clear = ""
+complicated = ""
+complex = ""
+chaotic = ""
+uncertainty = "Low, medium or high, and why"
 ```
 
-A model's Cube output is a first draft. Grade its claims with the [Evidence Ladder](RFC-0007-evidence-ladder.md) before acting on them: a model reading a company's website produces E0 and E1 evidence at best.
+## In NeoLibrary
 
-## What it was invented for
-
-1. **Rapid business planning** in fast industries such as InsurTech.
-2. **Business positioning**: finding a niche by holding internal strengths and external forces in view at once.
-3. **Teaching software design alternatives**: getting software teams to see how design choices affect the business.
+The Cube is one of the skeptic's instruments in [RFC-0004](RFC-0004-how-we-build.md). It can be called into any energy of the [Creation Model](RFC-0005-creation-model.md), and most often into Think and Judge.
 
 ## History
 
-| Date | What | Source |
-|---|---|---|
-| Sep 15, 2024 | "The Ironstone Cube" write-up with the TOML prompt and a worked example on a real InsurTech company. AI-assisted (custom GPT) | Drive doc, private archive |
-| Oct 17, 2026 | Named as a skeptic instrument: six faces, SWOT quadrants, swappable lenses | [RFC-0004](RFC-0004-how-we-build.md) |
-| Oct 2026 | Published as the "Ironstone Critical Thinking Cube" | [Ironstone Methods](https://www.ironstoneadvisory.com/what-we-do/ironstone-methods) |
+| Date | Version | What changed | Source |
+|---|---|---|---|
+| Sep 15, 2024 | "Ironstone Cube" | Six sections: 5 Ws, 5 Whys, 5 Hows, SWOT, 5 Wise, mental models (first principles, systems thinking, second-order thinking). The 5 Wise were five reflective questions: why now, why here, why this way, why you, why this impact. Written up with a custom GPT and a TOML prompt; each face tied to an idea from cognitive psychology. AI-assisted | Drive doc, private archive |
+| Oct 8, 2024 | "Ironstone Critical Cube" | Six fives: 5 Ws, 5 Whys, 5 Hows, 5 Whens, 5 Wise, 5 Weirds, with a Critical Thinking Foundation before and a Cynefin assessment after. The 5 Wise became five expert points of view. AI-assisted worked example | Drive doc, private archive |
+| Apr 16, 2025 | Named tool | Listed beside the Bullshit Compass and the Uncertainty Meter as an Ironstone tool | Drive doc |
+| Oct 2026 | Published | "Ironstone Critical Thinking Cube" on ironstoneadvisory.com, faces not named | [Ironstone Methods](https://www.ironstoneadvisory.com/what-we-do/ironstone-methods) |
+| Oct 17, 2026 | 1.0 | The October 2024 six fives made canonical. SWOT moves from a face to the grid on every face. The 5 Wise are points of view that vary with the problem. Mental models are no longer a face | Rob Tyrie, October 17, 2026 |
+
+The September 2024 why-questions (why now, why here, why this way, why you, why this impact) are still good questions. They now belong to whichever wise point of view would ask them.
 
 ## Change log
 
-- 0.9 (October 17, 2026): first draft from the September 2024 write-up and the October 2026 statements. Drafted with Claude (AI-assisted); the faces, questions and prompt are Rob's, quoted or closely restated.
+- 1.0 (October 17, 2026): accepted. The six fives, the SWOT grid on every face, the foundation and the Cynefin check, as confirmed by Rob Tyrie. Drafted with Claude (AI-assisted).
+- 0.9 (October 17, 2026): first draft, based on the September 2024 version.

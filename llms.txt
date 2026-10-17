@@ -9,10 +9,10 @@
 - [RFC-0003: plugin contract and open-core boundary](https://github.com/Ironstone-Advisory/neolibrary/blob/main/rfcs/RFC-0003-plugin-contract.md)
 - [RFC-0004: how NeoLibrary is built (creative flow and skeptic gate)](https://github.com/Ironstone-Advisory/neolibrary/blob/main/rfcs/RFC-0004-how-we-build.md)
 
-## Ironstone methods (drafts)
+## Ironstone methods
 
 - [RFC-0005: the Ironstone Creation Model](https://github.com/Ironstone-Advisory/neolibrary/blob/main/rfcs/RFC-0005-creation-model.md): eight energies (ideate, think, make, do, judge, decide, execute, archive), a graph not a staircase
-- [RFC-0006: the Ironstone Critical Thinking Cube](https://github.com/Ironstone-Advisory/neolibrary/blob/main/rfcs/RFC-0006-critical-thinking-cube.md): six faces (5 Ws, 5 Whys, 5 Hows, SWOT, 5 Wise, mental models)
+- [RFC-0006: the Ironstone Critical Thinking Cube](https://github.com/Ironstone-Advisory/neolibrary/blob/main/rfcs/RFC-0006-critical-thinking-cube.md): six faces (5 Ws, 5 Whys, 5 Hows, 5 Whens, 5 Wise, 5 Weirds), each sorted into a SWOT grid
 - [RFC-0007: the Evidence Ladder](https://github.com/Ironstone-Advisory/neolibrary/blob/main/rfcs/RFC-0007-evidence-ladder.md): E0 assertion to E4 repeated; confidence can't exceed the evidence
 
 ## Background
