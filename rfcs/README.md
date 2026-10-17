@@ -23,5 +23,6 @@ RFCs 0005 to 0007 define Ironstone methods that NeoLibrary is built with. They a
 - **Statuses:** Draft, Accepted, Superseded. A superseded RFC stays in the repo and names its replacement.
 - **One idea per RFC.** If a document needs two titles, it's two RFCs.
 - **Prose first.** Each RFC explains the idea in plain language before any code or schema.
+- **Site summaries.** Method RFCs carry a "Site summaries" section (one line, 50 words, 200 words) that ironstoneadvisory.com copies word for word. A change in meaning updates the summaries in the same commit.
 
 To propose one, copy the header block from any RFC, take the next number, and open a pull request with the status set to Draft.

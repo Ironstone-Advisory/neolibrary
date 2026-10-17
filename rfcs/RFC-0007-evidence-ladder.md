@@ -9,6 +9,28 @@
 | Part of | The Startup Pitch Canvas (v4) |
 | License | [CC BY 4.0](../LICENSE-docs) |
 
+## Site summaries
+
+For ironstoneadvisory.com and other short uses. Copy these as written; they change in the same commit as the RFC.
+
+**One line**
+
+Confidence can't be higher than the evidence under it.
+
+**50 words**
+
+The Evidence Ladder grades evidence from E0, an assertion, to E4, a result you've watched repeat. Your confidence in a claim is capped at the best grade behind it. Five rules keep the grades honest: the cap, a network discount, evidence against, staleness, and dependency between claims.
+
+**200 words**
+
+The Evidence Ladder is a simple discipline: you can't be more confident in a claim than the evidence under it allows. It was built for the Ironstone Startup Pitch Canvas but works on any claim, from a strategy to a forecast to a vendor's pitch.
+
+Evidence is graded on five rungs. E0 is an assertion: something believed because someone said it. E1 is reported: interviews, surveys, analyst reports. E2 is observed: real behavior you watched, like a prototype in use. E3 is committed: someone paid or risked something, like a paid pilot or a signed letter of intent. E4 is repeated: several independent commitments with visible margins, and the only grade you may call validated.
+
+Five rules keep the grades honest. Confidence is capped at the best grade. Evidence from friends and advisors counts one grade lower. Every claim needs evidence against it, or it stays at low confidence. Evidence older than about a year drops a grade. A claim can't be stronger than the claims it rests on.
+
+For each claim, pick the cheapest test that would earn the next grade. That turns a pitch or plan into a list of experiments. Anything at E0 or E1 is presented as a hypothesis, never as a fact.
+
 ## Summary
 
 Confidence can't be higher than the evidence under it. The Evidence Ladder grades every piece of evidence from E0 to E4, then caps how confident you're allowed to be in a claim at the best grade behind it. It turns "never upgrade a hypothesis into a fact" from a principle into a mechanism.

@@ -9,6 +9,28 @@
 | Also called | The creator model, the creation model, Seven Energies, Eight Energies |
 | License | [CC BY 4.0](../LICENSE-docs) |
 
+## Site summaries
+
+For ironstoneadvisory.com and other short uses. Copy these as written; they change in the same commit as the RFC.
+
+**One line**
+
+Creation needs eight kinds of work, and most teams are strong in only two or three of them.
+
+**50 words**
+
+The Ironstone Creation Model names the eight energies creation needs: ideate, think, make, do, judge, decide, execute and archive. They're energies, not stages. Work moves between them in any direction, and the whole model runs again inside each one. Use it to see which energies a team has and which are missing.
+
+**200 words**
+
+The Ironstone Creation Model describes how something goes from an idea to a thing that exists, is used and is kept. It names eight energies: ideate, think, make, do, judge, decide, execute and archive. Most people and most teams are strong in two or three of them, and the missing ones are where projects stall.
+
+The energies form a graph, not a staircase. New evidence can send the work backward, sideways or around again, and the whole model runs again inside any single energy. The most valuable move is from archive back to ideate: mining your own finished work for the next idea. The test for any backward move is simple. If you can name what you learned, it's a return. If you're just uncomfortable, it's a retreat.
+
+Outside forces act on the work: fans, skeptics, and regulation and law. Judging honestly inside the team is what makes the outside critics survivable.
+
+The model began as six roles in a conversation in July 2023 and grew to eight energies by October 2026. AI now takes part in every energy, which makes ideas and fluent prose cheap and makes judgment and a well-kept archive the scarce parts.
+
 ## Summary
 
 The Ironstone Creation Model describes how something goes from an idea to a thing that exists, is used and is kept. It names the kinds of work creation needs, which I call **energies**: ideate, think, make, do, judge, decide, execute and archive. Most people and most teams are strong in two or three of them. The model exists so you can see which energies are present, which are missing, and what has to happen next.

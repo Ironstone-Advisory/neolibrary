@@ -47,3 +47,7 @@ All three are labelled AI-assisted, with the share of the work that was AI state
 ## Addendum: RFC-0006 version 1.0 (October 17, 2026)
 
 Read against the RFC FS02 indicators. The cognitive-psychology rationale from the September 2024 version was not carried into 1.0, so the pseudoscience flag no longer applies. The 5 Wise section requires simulated points of view to be labelled as simulations, which covers assertion ambiguity. Cynefin is credited to Dave Snowden. Pass.
+
+## Addendum: site summaries in RFCs 0005 to 0007 (October 17, 2026)
+
+Read against the RFC FS02 indicators. Each summary restates its RFC and adds no claims of its own; no buzzword load or emotional persuasion. Pass.

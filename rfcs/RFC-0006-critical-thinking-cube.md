@@ -9,6 +9,28 @@
 | Also called | The Critical Cube, the Ironstone Cube |
 | License | [CC BY 4.0](../LICENSE-docs) |
 
+## Site summaries
+
+For ironstoneadvisory.com and other short uses. Copy these as written; they change in the same commit as the RFC.
+
+**One line**
+
+A difficult question has six faces, and the Cube makes you look at all of them before you answer.
+
+**50 words**
+
+The Ironstone Critical Thinking Cube turns a question around before you get attached to an answer. Its six faces are each a set of five: the 5 Ws, 5 Whys, 5 Hows, 5 Whens, 5 Wise and 5 Weirds. Each face's answers are sorted into strengths, weaknesses, opportunities and threats.
+
+**200 words**
+
+The Ironstone Critical Thinking Cube is a way to examine a hard question from every side before committing to an answer. It suits strategy, product and investment decisions, especially when the first answer is probably too easy.
+
+Start with three lines: the base assumption, the context and the one question the analysis must answer. Then work the six faces, each a set of five. The 5 Ws gather context. The 5 Whys dig to the root cause. The 5 Hows turn analysis into action, ending with something a person can do this week. The 5 Whens set the sequence and the real timeline. The 5 Wise bring in five points of view chosen for this problem, such as a regulator, a customer or a skeptical engineer. The 5 Weirds ask strange "what if" questions to break an assumption nobody questioned.
+
+Each face's answers are sorted into strengths, weaknesses, opportunities and threats. Close with a Cynefin check: which parts of the problem are clear, complicated, complex or chaotic, and so which to execute and which to test.
+
+The Cube works well as an AI prompt. Treat what the model produces as a first draft and grade its claims before acting.
+
 ## Summary
 
 A difficult question has more than one face. The Cube is a way to turn a question around before you get attached to an answer. It has six faces, and each one is a set of five: **the 5 Ws, the 5 Whys, the 5 Hows, the 5 Whens, the 5 Wise and the 5 Weirds**. Each face's answers are then split across a SWOT grid, so you see what's strong, what's weak, what's open and what's dangerous from every side.
