@@ -100,3 +100,7 @@ Christopher Alexander's *A Pattern Language* (1977) is credited. The note is Rob
 ## Addendum: Research Note 001, extrinsic energies (October 17, 2026, evening)
 
 At Rob's direction, section 3 now names four extrinsic energies (fans, skeptics, competition, the law), matching RFC-0005 1.7. The semantic-drift flag above is resolved and the reading note no longer lists a difference. Read against the RFC FS02 indicators: pass.
+
+## Addendum: Weekend Log, October 16 to 18 (October 18, 2026)
+
+v1 still fails calibration, so the log was read against the nine RFC FS02 indicators. ChatGPT's own value scores ("High", "Medium") were dropped as unverified self-assessment (data-presentation obfuscation risk). Counts from the ChatGPT review (60 contributions, 614 passages, 19 checks) are reported as that tool stated them and were not independently audited. Job work and private matters are excluded because the repo is public. Pass.
