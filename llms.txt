@@ -12,13 +12,14 @@
 ## Ironstone methods
 
 - [RFC-0005: the Ironstone Creation Model](https://github.com/Ironstone-Advisory/neolibrary/blob/main/rfcs/RFC-0005-creation-model.md): eight intrinsic energies a company controls (ideate, think, make, do, judge, decide, execute, archive) and four extrinsic ones it does not (fans, skeptics, competition, the law), with feedback loops across all twelve;, run in parallel to take an idea to market, each trading demands and outputs with the others
-- [RFC-0006: the Ironstone Critical Thinking Cube](https://github.com/Ironstone-Advisory/neolibrary/blob/main/rfcs/RFC-0006-critical-thinking-cube.md): six faces (5 Ws, 5 Whys, 5 Hows, 5 Whens, 5 Wise, 5 Weirds), each sorted into a SWOT grid
+- [RFC-0006: the Ironstone Critical Thinking Cube](https://github.com/Ironstone-Advisory/neolibrary/blob/main/rfcs/RFC-0006-critical-thinking-cube.md): six faces (5 Ws, 5 Whys, 5 Hows, 5 Whens, 5 Wise, 5 Weirds), with a SWOT check on every face
 - [RFC-0007: the Evidence Ladder](https://github.com/Ironstone-Advisory/neolibrary/blob/main/rfcs/RFC-0007-evidence-ladder.md): E0 assertion to E4 repeated; confidence can't exceed the evidence
 
 ## Background
 
 - [Framework: DAC-EK and the NeoLibrary Helix](https://github.com/Ironstone-Advisory/neolibrary/blob/main/docs/framework.md)
 - [Creator Model Research Note 001: language, flows, stores and a pattern language (exploratory, not canonical)](https://github.com/Ironstone-Advisory/neolibrary/blob/main/docs/research/creator-model-note-001.md)
+- [Site Change Log, Oct 28, 2026: work order for ironstoneadvisory.com (not canonical)](https://github.com/Ironstone-Advisory/neolibrary/blob/main/docs/log/2026-10-28-site-changes.md)
 - [Weekend Log, Oct 16 to 18, 2026: merged ChatGPT and Claude record (historic, not canonical)](https://github.com/Ironstone-Advisory/neolibrary/blob/main/docs/log/2026-10-18-weekend-log.md)
 - [Architecture](https://github.com/Ironstone-Advisory/neolibrary/blob/main/docs/architecture.md)
 - [MetaRAG and the NeoLibrary (June 2024)](https://github.com/Ironstone-Advisory/neolibrary/blob/main/docs/history/2024-06-metarag-and-neolibrary.md)
@@ -29,4 +30,7 @@
 - [Ironstone Advisory](https://www.ironstoneadvisory.com)
 - [NeoLibrary on ironstoneadvisory.com](https://www.ironstoneadvisory.com/insights/neolibrary)
 - [Ironstone Methods](https://www.ironstoneadvisory.com/what-we-do/ironstone-methods)
+- [Creation Model guide on ironstoneadvisory.com](https://www.ironstoneadvisory.com/what-we-do/ironstone-methods/creation-model)
+- [Ironstone Critical Cube on ironstoneadvisory.com](https://www.ironstoneadvisory.com/what-we-do/ironstone-methods/ironstone-critical-thinking-cube)
+- [Ironstone glossary](https://www.ironstoneadvisory.com/insights/glossary)
 - [NeoLibrary Commons: test corpus, CC BY 4.0](https://github.com/Ironstone-Advisory/neolibrary-commons)
