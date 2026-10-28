@@ -3,9 +3,9 @@
 | | |
 |---|---|
 | Author | Rob Tyrie, Ironstone Advisory |
-| Version | 1.7 |
+| Version | 1.8 |
 | Status | Accepted |
-| Date | October 17, 2026 |
+| Date | October 28, 2026 (1.7 accepted October 17, 2026) |
 | Also called | The creator model, the creation model, Seven Energies, Eight Energies |
 | License | [CC BY 4.0](../LICENSE-docs) |
 
@@ -25,7 +25,7 @@ The Ironstone Creation Model names eight intrinsic energies a company controls: 
 
 The Ironstone Creation Model describes how an idea becomes something that exists, is used and is kept. For a for-profit enterprise, the goal is plain: get the idea to market. Most teams are strong in two or three of its energies; the missing ones are where ventures stall.
 
-Ideation creates ideas. Thinking turns them into systems. Making uses the systems to create inputs and outputs. Doing runs the system until it repeats. Judging assesses the results, and its output is opportunities to change how something is thought about, made or done. Deciding picks which opportunities to act on, and archiving keeps the work and its lessons. Execution orchestrates everything.
+Ideation creates ideas: options not yet judged. Thinking turns them into systems. Making uses the systems to create inputs and outputs. Doing runs the system until it repeats. Judging assesses the results, and its output is opportunities to change how something is thought about, made or done. Deciding picks which opportunities to act on, and archiving keeps the work and its lessons. Execution orchestrates everything.
 
 There is no order of execution. All eight run in parallel, each at its own level of energy and its own level of done, trading messages: each demands the inputs it needs and hands on the outputs it has. Every energy needs retrievable memory. Archive handing Ideate the lessons of the last loop is how the model reproduces itself.
 
@@ -43,7 +43,7 @@ Creation starts before analysis. It starts when an idea, a question, a pressure 
 
 | Energy | What it does | Its quantum: enough to tap another energy |
 |---|---|---|
-| **Ideate** | Creates ideas. Generates options without killing them. Ideators observe, mix observation with memory, and frame ideas in words or pictures that others can use | There are more options than feel comfortable, and some are strange |
+| **Ideate** | Creates ideas: options not yet judged. Generates them without killing them. Ideators observe, mix observation with memory, and frame ideas in words or pictures that others can use | There are more options than feel comfortable, and some are strange |
 | **Think** | Turns ideas into systems: what the parts are, how they connect, what goes in and what comes out. Writes down every "this only works if" and ranks the assumptions by what kills you when they're wrong | A system someone could build from. That bar is lower than certainty |
 | **Make** | Uses the system to create its inputs and outputs: a prototype, a draft, a model, the first real product | A small thing exists that could prove you wrong |
 | **Do** | Runs the system, again and again, until it has a repeatable motion | It has run for real, more than once, not as a demonstration |
@@ -65,7 +65,7 @@ So the model is a graph: energies are nodes, and taps between them are edges. Se
 
 ## Parallel energies and the messages between them
 
-The work moves like this. Ideation creates ideas. Thinking turns ideas into systems. Making uses those systems to create inputs and outputs. Doing runs the system until it has a repetitive motion. Judging assesses the results, and its output is opportunities to change how something is done, made or thought about in the system. Deciding picks which opportunities to act on. Archiving keeps all of it. **Execution orchestrates everything.**
+The work moves like this. Ideation creates ideas: options not yet judged. Thinking turns ideas into systems. Making uses those systems to create inputs and outputs. Doing runs the system until it has a repetitive motion. Judging assesses the results, and its output is opportunities to change how something is done, made or thought about in the system. Deciding picks which opportunities to act on. Archiving keeps all of it. **Execution orchestrates everything.**
 
 That's a description of the flow, not an order of execution. All eight energies run at the same time. At any moment each one has two readings:
 
@@ -179,6 +179,7 @@ Exploratory notes extend the model without changing it. They aren't canonical; w
 
 ## Change log
 
+- 1.8 (October 28, 2026): what Ideate produces is stated as "ideas: options not yet judged", joining the RFC's "ideas" and the site guide's "options". Wording only; no energy, order or rule changes. As decided by Rob Tyrie; edited with Claude (AI-assisted).
 - 1.7 (October 17, 2026): competition added as a fourth extrinsic energy, Rob Tyrie's new learning of the day. Competitors move out of Skeptics into Competition. Twelve energies in all.
 - 1.6 (October 17, 2026): intrinsic and extrinsic energies. The eight foundation energies are intrinsic (a company controls them); fans, skeptics and the law are extrinsic; feedback loops run across all eleven, as stated by Rob Tyrie.
 - 1.5 (October 17, 2026): records that the model was used to create NeoLibrary and is how Rob builds prompt-based AI agents, as stated by Rob Tyrie; the 2023 prompt-sequence remark quoted from the Pi transcript.
