@@ -24,6 +24,8 @@ The weekly check found that the site had published a Creation Model guide and a 
 | 6 | Licensing page | Full statement, with a link to GitHub | Site, change 3 |
 | 7 | Glossary | Add five entries | Site, change 4 |
 
+**Merged.** PR #1 merged into main on October 28, 2026 (commit 6122a8c), so RFC-0006 1.5, RFC-0005 1.8 and this log are on main. Compass gate: the FS02 manual reading found nothing; Rob saw the decisions and the drafted glossary and licensing text in the session, and chose to merge without a separate full read of the diff.
+
 ## Instructions for the robot
 
 ### Rules
