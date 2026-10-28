@@ -29,4 +29,7 @@
 - [Ironstone Advisory](https://www.ironstoneadvisory.com)
 - [NeoLibrary on ironstoneadvisory.com](https://www.ironstoneadvisory.com/insights/neolibrary)
 - [Ironstone Methods](https://www.ironstoneadvisory.com/what-we-do/ironstone-methods)
+- [Creation Model guide on ironstoneadvisory.com](https://www.ironstoneadvisory.com/what-we-do/ironstone-methods/creation-model)
+- [Ironstone Critical Cube on ironstoneadvisory.com](https://www.ironstoneadvisory.com/what-we-do/ironstone-methods/ironstone-critical-thinking-cube)
+- [Ironstone glossary](https://www.ironstoneadvisory.com/insights/glossary)
 - [NeoLibrary Commons: test corpus, CC BY 4.0](https://github.com/Ironstone-Advisory/neolibrary-commons)

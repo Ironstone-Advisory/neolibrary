@@ -159,6 +159,7 @@ The Cube is one of the skeptic's instruments in [RFC-0004](RFC-0004-how-we-build
 | Apr 16, 2025 | Named tool | Listed beside the Bullshit Compass and the Uncertainty Meter as an Ironstone tool | Drive doc |
 | Oct 2026 | Published | "Ironstone Critical Thinking Cube" on ironstoneadvisory.com, faces not named | [Ironstone Methods](https://www.ironstoneadvisory.com/what-we-do/ironstone-methods) |
 | Oct 17, 2026 | 1.0 | The October 2024 six fives made canonical. SWOT moves from a face to the grid on every face. The 5 Wise are points of view that vary with the problem. Mental models are no longer a face | Rob Tyrie, October 17, 2026 |
+| Oct 25, 2026 | Site page | "Ironstone Critical Cube" page on ironstoneadvisory.com, labelled version 1.5; the earlier guide is archived as a field note | [Ironstone Critical Cube](https://www.ironstoneadvisory.com/what-we-do/ironstone-methods/ironstone-critical-thinking-cube), [earlier guide](https://www.ironstoneadvisory.com/insights/field-notes-essays/critical-cube-earlier-guide) |
 
 The September 2024 why-questions (why now, why here, why this way, why you, why this impact) are still good questions. They now belong to whichever wise point of view would ask them.
 
