@@ -12,7 +12,7 @@
 ## Ironstone methods
 
 - [RFC-0005: the Ironstone Creation Model](https://github.com/Ironstone-Advisory/neolibrary/blob/main/rfcs/RFC-0005-creation-model.md): eight intrinsic energies a company controls (ideate, think, make, do, judge, decide, execute, archive) and four extrinsic ones it does not (fans, skeptics, competition, the law), with feedback loops across all twelve;, run in parallel to take an idea to market, each trading demands and outputs with the others
-- [RFC-0006: the Ironstone Critical Thinking Cube](https://github.com/Ironstone-Advisory/neolibrary/blob/main/rfcs/RFC-0006-critical-thinking-cube.md): six faces (5 Ws, 5 Whys, 5 Hows, 5 Whens, 5 Wise, 5 Weirds), each sorted into a SWOT grid
+- [RFC-0006: the Ironstone Critical Thinking Cube](https://github.com/Ironstone-Advisory/neolibrary/blob/main/rfcs/RFC-0006-critical-thinking-cube.md): six faces (5 Ws, 5 Whys, 5 Hows, 5 Whens, 5 Wise, 5 Weirds), with a SWOT check on every face
 - [RFC-0007: the Evidence Ladder](https://github.com/Ironstone-Advisory/neolibrary/blob/main/rfcs/RFC-0007-evidence-ladder.md): E0 assertion to E4 repeated; confidence can't exceed the evidence
 
 ## Background

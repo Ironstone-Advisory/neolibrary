@@ -3,9 +3,9 @@
 | | |
 |---|---|
 | Author | Rob Tyrie, Ironstone Advisory |
-| Version | 1.0 |
+| Version | 1.5 |
 | Status | Accepted |
-| Date | October 17, 2026 |
+| Date | October 28, 2026 (1.0 accepted October 17, 2026) |
 | Also called | The Critical Cube, the Ironstone Cube |
 | License | [CC BY 4.0](../LICENSE-docs) |
 
@@ -19,7 +19,7 @@ A difficult question has six faces, and the Cube makes you look at all of them b
 
 **50 words**
 
-The Ironstone Critical Thinking Cube turns a question around before you get attached to an answer. Its six faces are each a set of five: the 5 Ws, 5 Whys, 5 Hows, 5 Whens, 5 Wise and 5 Weirds. Each face's answers are sorted into strengths, weaknesses, opportunities and threats.
+The Ironstone Critical Thinking Cube turns a question around before you get attached to an answer. Its six faces are each a set of five: the 5 Ws, 5 Whys, 5 Hows, 5 Whens, 5 Wise and 5 Weirds. A SWOT check is applied to every face: strengths and weaknesses inside the organization, opportunities and threats in its environment.
 
 **200 words**
 
@@ -27,13 +27,13 @@ The Ironstone Critical Thinking Cube is a way to examine a hard question from ev
 
 Start with three lines: the base assumption, the context and the one question the analysis must answer. Then work the six faces, each a set of five. The 5 Ws gather context. The 5 Whys dig to the root cause. The 5 Hows turn analysis into action, ending with something a person can do this week. The 5 Whens set the sequence and the real timeline. The 5 Wise bring in five points of view chosen for this problem, such as a regulator, a customer or a skeptical engineer. The 5 Weirds ask strange "what if" questions to break an assumption nobody questioned.
 
-Each face's answers are sorted into strengths, weaknesses, opportunities and threats. Close with a Cynefin check: which parts of the problem are clear, complicated, complex or chaotic, and so which to execute and which to test.
+A SWOT check is applied to every face: strengths and weaknesses inside the organization, opportunities and threats in its environment. Close with a Cynefin check: which parts of the problem are clear, complicated, complex or chaotic, and so which to execute and which to test.
 
 The Cube works well as an AI prompt. Treat what the model produces as a first draft and grade its claims before acting.
 
 ## Summary
 
-A difficult question has more than one face. The Cube is a way to turn a question around before you get attached to an answer. It has six faces, and each one is a set of five: **the 5 Ws, the 5 Whys, the 5 Hows, the 5 Whens, the 5 Wise and the 5 Weirds**. Each face's answers are then split across a SWOT grid, so you see what's strong, what's weak, what's open and what's dangerous from every side.
+A difficult question has more than one face. The Cube is a way to turn a question around before you get attached to an answer. It has six faces, and each one is a set of five: **the 5 Ws, the 5 Whys, the 5 Hows, the 5 Whens, the 5 Wise and the 5 Weirds**. A SWOT check is then applied to every face, so you see what's strong and weak inside the organization, and what's open and dangerous in its environment, from every side.
 
 I use it for critical thinking, decisions and problem-solving, especially when the first answer is probably too easy. It was built for speed. Before generative AI, analysing an enterprise-scale problem this thoroughly needed expensive outside strategy consultants. With a structured prompt, a team can cover the problem space and the solution space in an afternoon.
 
@@ -68,9 +68,9 @@ A wise point of view used in a write-up is a simulation of how that kind of pers
 
 The 5 Weirds are deliberately strange. "What if the product could switch levels at will?" "What if the customer were the supplier?" Most get thrown away. One usually survives and changes the plan. Run this face after the others, when you know enough to break the right assumption.
 
-## The SWOT grid on every face
+## The SWOT check on every face
 
-Each face's answers get sorted into four quadrants: **strengths, weaknesses, opportunities and threats**. The 5 Ws in a SWOT grid show whose interests help or hurt you. The 5 Whens in a SWOT grid show which timing works for you and which works against you. Sorting every face this way is what turns six lists into a decision.
+SWOT is a check applied to every face, not a separate face. For each face, record **strengths and weaknesses** inside the organization, and **opportunities and threats** in its environment. The 5 Ws under a SWOT check show whose interests help or hurt you. The 5 Whens under a SWOT check show which timing works for you and which works against you. Sorting every face this way is what turns six lists into a decision.
 
 ## After the cube: the Cynefin check
 
@@ -132,7 +132,7 @@ points_of_view = ["", "", "", "", ""]
 what_if = ["", "", "", "", ""]
 
 [critical_cube.swot]
-# Apply to every face above
+# SWOT check: apply to every face above. Strengths and weaknesses are inside the organization; opportunities and threats are in its environment
 strengths = ""
 weaknesses = ""
 opportunities = ""
@@ -160,10 +160,12 @@ The Cube is one of the skeptic's instruments in [RFC-0004](RFC-0004-how-we-build
 | Oct 2026 | Published | "Ironstone Critical Thinking Cube" on ironstoneadvisory.com, faces not named | [Ironstone Methods](https://www.ironstoneadvisory.com/what-we-do/ironstone-methods) |
 | Oct 17, 2026 | 1.0 | The October 2024 six fives made canonical. SWOT moves from a face to the grid on every face. The 5 Wise are points of view that vary with the problem. Mental models are no longer a face | Rob Tyrie, October 17, 2026 |
 | Oct 25, 2026 | Site page | "Ironstone Critical Cube" page on ironstoneadvisory.com, labelled version 1.5; the earlier guide is archived as a field note | [Ironstone Critical Cube](https://www.ironstoneadvisory.com/what-we-do/ironstone-methods/ironstone-critical-thinking-cube), [earlier guide](https://www.ironstoneadvisory.com/insights/field-notes-essays/critical-cube-earlier-guide) |
+| Oct 28, 2026 | 1.5 | SWOT described as a check applied to every face, with strengths and weaknesses inside the organization and opportunities and threats in its environment, matching the site's v1.5 wording. The foundation and the Cynefin check stay | Rob Tyrie, October 28, 2026 |
 
 The September 2024 why-questions (why now, why here, why this way, why you, why this impact) are still good questions. They now belong to whichever wise point of view would ask them.
 
 ## Change log
 
+- 1.5 (October 28, 2026): version number aligned with the site's Critical Cube v1.5. SWOT is a check applied to every face (strengths and weaknesses inside the organization, opportunities and threats in its environment), replacing the SWOT grid wording. The foundation and the Cynefin check stay part of the method. "Ironstone Critical Thinking Cube" stays the formal name and "Critical Cube" the short one. As decided by Rob Tyrie; edited with Claude (AI-assisted).
 - 1.0 (October 17, 2026): accepted. The six fives, the SWOT grid on every face, the foundation and the Cynefin check, as confirmed by Rob Tyrie. Drafted with Claude (AI-assisted).
 - 0.9 (October 17, 2026): first draft, based on the September 2024 version.
