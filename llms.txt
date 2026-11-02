@@ -33,4 +33,7 @@
 - [Creation Model guide on ironstoneadvisory.com](https://www.ironstoneadvisory.com/what-we-do/ironstone-methods/creation-model)
 - [Ironstone Critical Cube on ironstoneadvisory.com](https://www.ironstoneadvisory.com/what-we-do/ironstone-methods/ironstone-critical-thinking-cube)
 - [Ironstone glossary](https://www.ironstoneadvisory.com/insights/glossary)
+- [A Bookshelf, a Dataset and the Design of NeoLibrary (essay, Oct 25, 2026)](https://www.ironstoneadvisory.com/insights/field-notes-essays/bookshelf-dataset-neolibrary)
+- [Market Map Method on ironstoneadvisory.com](https://www.ironstoneadvisory.com/what-we-do/ironstone-methods/market-map-method)
+- [Ironstone site index, with links to the public GitHub repositories](https://www.ironstoneadvisory.com/insights/site-index)
 - [NeoLibrary Commons: test corpus, CC BY 4.0](https://github.com/Ironstone-Advisory/neolibrary-commons)
