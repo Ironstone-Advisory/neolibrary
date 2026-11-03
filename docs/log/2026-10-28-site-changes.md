@@ -154,6 +154,8 @@ Add these five entries in the same format as the existing ones (term in bold, th
 - [ ] Change 4: Glossary
 - [ ] Published and checked
 
+**November 2, 2026:** the weekly check found none of these changes on the published site. They carry forward in the [November 3 work order](2026-11-03-site-changes.md), which replaces change 2d.
+
 ## Still open
 
 - Bullshit Compass method documents: keep them MIT like the code, or move them to CC BY 4.0 like the other methods. If they move, the Compass repos need a docs license file first, and the Compass paragraph in change 3 changes.
