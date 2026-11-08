@@ -26,7 +26,7 @@ In June 2024 Rob Tyrie called the first version of this idea **MetaRAG**: instea
 
 **NeoLibrary.** A series of interconnected layers that let material be accessed, researched, combined, synthesized, published and tracked, turning it into new knowledge objects and wisdom objects. The layers are Access, Research, Combine, Synthesize, Publish and Track; see [architecture](../docs/architecture.md).
 
-**MetaRAG.** Retrieval-augmented generation that uses meta information about documents, such as tags, an ontology and the documents' own structure (contents, headings, summaries, index), to ground what is retrieved and the answers that large language models give. The ontology and meta information can be created in many ways.
+**MetaRAG.** Retrieval-augmented generation that uses meta information about documents, such as tags, an ontology and the documents' own structure (contents, headings, summaries, index), to ground what is retrieved and the answers that large language models give. It does not need the full text of the documents. The ontology and meta information can be created in many ways.
 
 **Book (document).** The two words mean the same thing. A book is a collection of knowledge objects together with its full structure: table of contents, chapter ordering, the shape of each section, end-of-chapter lessons, summaries and quizzes, concordance, notes, references and index. The structure is part of the knowledge, not packaging around it.
 
@@ -63,4 +63,4 @@ The engine and these definitions are open: code under Apache 2.0, documents unde
 ## Change log
 
 - 1.0 (October 17, 2026): first accepted version.
-- 1.1 (November 8, 2026): MetaRAG redefined as retrieval-augmented generation grounded in meta information (tags, an ontology and document structure), however that meta information is created. The 1.0 definition covered only document structure.
+- 1.1 (November 8, 2026): MetaRAG redefined as retrieval-augmented generation grounded in meta information (tags, an ontology and document structure), however that meta information is created. The 1.0 definition covered only document structure. Clarified the same day that MetaRAG does not need the full text of the documents.
