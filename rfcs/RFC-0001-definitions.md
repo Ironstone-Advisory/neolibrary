@@ -3,9 +3,9 @@
 | | |
 |---|---|
 | Author | Rob Tyrie, Ironstone Advisory |
-| Version | 1.0 |
+| Version | 1.1 |
 | Status | Accepted |
-| Date | October 17, 2026 |
+| Date | November 8, 2026 (1.0 accepted October 17, 2026) |
 | License | [CC BY 4.0](../LICENSE-docs) |
 
 ## Summary
@@ -26,7 +26,7 @@ In June 2024 Rob Tyrie called the first version of this idea **MetaRAG**: instea
 
 **NeoLibrary.** A series of interconnected layers that let material be accessed, researched, combined, synthesized, published and tracked, turning it into new knowledge objects and wisdom objects. The layers are Access, Research, Combine, Synthesize, Publish and Track; see [architecture](../docs/architecture.md).
 
-**MetaRAG.** Retrieval-augmented generation that retrieves from a curated, consensus library of documents and uses their whole structure (contents, ordering, sections, summaries, notes, references and index) rather than isolated text fragments. MetaRAG is how a model reads a NeoLibrary.
+**MetaRAG.** A set of tags and an ontology used to ground document retrieval and the answers that large language models give.
 
 **Book (document).** The two words mean the same thing. A book is a collection of knowledge objects together with its full structure: table of contents, chapter ordering, the shape of each section, end-of-chapter lessons, summaries and quizzes, concordance, notes, references and index. The structure is part of the knowledge, not packaging around it.
 
@@ -63,3 +63,4 @@ The engine and these definitions are open: code under Apache 2.0, documents unde
 ## Change log
 
 - 1.0 (October 17, 2026): first accepted version.
+- 1.1 (November 8, 2026): MetaRAG redefined as a set of tags and an ontology used to ground document retrieval and LLM answers. The 1.0 definition was incorrect.
