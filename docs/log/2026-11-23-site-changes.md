@@ -17,7 +17,7 @@ The weekly check on November 23, 2026 read the live site.
 
 **Done since October 28:** the glossary now has entries for the Creation Model, Critical Cube, Evidence Ladder and Bullshit Compass (part of old change 4). The NeoLibrary page, the glossary and the method guides now link to the public GitHub repositories.
 
-**Still open:** every other change from October 28, plus four new ones. Rob ruled on November 23, 2026 that this repo is canonical, which settles the Cube questions the November 3 log left waiting. He also said Ironstone-Advisory/Ironstone-Creation-Model-Legacy is the canonical repo for the Creation Model; this check couldn't read it, so the Creation Model changes wait.
+**Still open:** every other change from October 28, plus four new ones. Rob ruled on November 23, 2026 that this repo is canonical, which settles the Cube questions the November 3 log left waiting. He also decided that the Bullshit Compass method documents move to CC BY 4.0, with the code staying MIT. He also said Ironstone-Advisory/Ironstone-Creation-Model-Legacy is the canonical repo for the Creation Model; this check couldn't read it, so the Creation Model changes wait.
 
 ## Instructions for Dot
 
@@ -47,9 +47,13 @@ Don't make any Creation Model change yet. Rob said on November 23, 2026 that Iro
 
 **Page:** https://www.ironstoneadvisory.com/licensing-and-attribution
 
-Make change 3 exactly as written in the [October 28 work order](2026-10-28-site-changes.md): five paragraphs after "Original Ironstone Advisory content is © Ironstone Advisory.", with every GitHub address linked.
+Make change 3 as written in the [October 28 work order](2026-10-28-site-changes.md): five paragraphs after "Original Ironstone Advisory content is © Ironstone Advisory.", with every GitHub address linked. One exception: Rob decided on November 23, 2026 that the Bullshit Compass method documents move to CC BY 4.0, so use this paragraph in place of the October 28 "Bullshit Compass" paragraph:
 
-**Check:** the page names CC BY 4.0 for the methods, Apache 2.0 and the trademark for NeoLibrary, and MIT for the Compass, and every GitHub link opens the right repository.
+> **Bullshit Compass.** The Bullshit Compass method documents (the RFC FS02 specification, its specs and use cases) are under Creative Commons Attribution 4.0 (CC BY 4.0), and its code is under the MIT License. Both are published at github.com/Ironstone-Advisory/bullshit-compass-v2 (current) and github.com/Ironstone-Advisory/BullshitCompass (v1).
+
+Link targets are the same as in the October 28 order. Make this change only after Rob has merged the two Compass license pull requests (bullshit-compass-v2 #2 and BullshitCompass #1); if either is still open, skip change 3 and report it.
+
+**Check:** the page names CC BY 4.0 for the methods, including the Compass method documents; Apache 2.0 and the trademark for NeoLibrary; MIT for the Compass code; and every GitHub link opens the right repository.
 
 ### Change 4: Glossary
 
@@ -108,10 +112,9 @@ Dot doesn't touch these until Rob decides and this log is updated:
 
 | # | Question | Options |
 |---|---|---|
-| 1 | Bullshit Compass method documents (from October 28) | Keep them MIT like the code, or move them to CC BY 4.0 like the other methods. Change 3 names MIT for now |
-| 2 | Trademark sentence in change 3 (from October 28) | It follows this repo's NOTICE file and hasn't been reviewed by a lawyer |
-| 3 | Creation Model wording, to be checked against Ironstone-Advisory/Ironstone-Creation-Model-Legacy | On the site today: the guide intro ends "Deciding, Archiving, Execution"; the guide says "Ideate produces options."; the guide and the glossary cite v1.7; the Methods page says "Status: working model; the broader consulting methodology is evolving." and "Fans, skeptics and regulation or law act on the work from outside it." RFC-0005 1.8 has Execute before Archive, "ideas: options not yet judged", Accepted v1.8, and four outside forces: fans, skeptics, competition and the law. The October 28 changes 2a to 2d hold until the canonical repo is checked |
-| 4 | Two repos on the site index (from November 3) | github.com/Ironstone-Advisory/neocrm and github.com/Ironstone-Advisory/ImportantPublicDocumentsTemplates: keep both linked, or remove whichever isn't meant to be public |
+| 1 | Trademark sentence in change 3 (from October 28) | It follows this repo's NOTICE file and hasn't been reviewed by a lawyer |
+| 2 | Creation Model wording, to be checked against Ironstone-Advisory/Ironstone-Creation-Model-Legacy | On the site today: the guide intro ends "Deciding, Archiving, Execution"; the guide says "Ideate produces options."; the guide and the glossary cite v1.7; the Methods page says "Status: working model; the broader consulting methodology is evolving." and "Fans, skeptics and regulation or law act on the work from outside it." RFC-0005 1.8 has Execute before Archive, "ideas: options not yet judged", Accepted v1.8, and four outside forces: fans, skeptics, competition and the law. The October 28 changes 2a to 2d hold until the canonical repo is checked |
+| 3 | Two repos on the site index (from November 3) | github.com/Ironstone-Advisory/neocrm and github.com/Ironstone-Advisory/ImportantPublicDocumentsTemplates: keep both linked, or remove whichever isn't meant to be public |
 
 ## Status
 
