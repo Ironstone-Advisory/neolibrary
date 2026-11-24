@@ -17,7 +17,7 @@ The weekly check on November 23, 2026 read the live site.
 
 **Done since October 28:** the glossary now has entries for the Creation Model, Critical Cube, Evidence Ladder and Bullshit Compass (part of old change 4). The NeoLibrary page, the glossary and the method guides now link to the public GitHub repositories.
 
-**Still open:** every other change from October 28, plus four new ones. Rob ruled on November 23, 2026 that this repo is canonical, which settles the Cube questions the November 3 log left waiting. He also said Ironstone-Advisory/Ironstone-Creation-Model is the canonical repo for the Creation Model; this check couldn't read it, so the Creation Model changes wait.
+**Still open:** every other change from October 28, plus four new ones. Rob ruled on November 23, 2026 that this repo is canonical, which settles the Cube questions the November 3 log left waiting. He also said Ironstone-Advisory/Ironstone-Creation-Model-Legacy is the canonical repo for the Creation Model; this check couldn't read it, so the Creation Model changes wait.
 
 ## Instructions for Dot
 
@@ -41,7 +41,7 @@ Make change 1a (the foundation, before the 5 Ws) and change 1b (the Cynefin chec
 
 ### Change 2: Creation Model guide (on hold)
 
-Don't make any Creation Model change yet. Rob said on November 23, 2026 that Ironstone-Advisory/Ironstone-Creation-Model is the canonical repo for the Creation Model, and this check couldn't read it. The Creation Model items are in "Waiting on Rob" until they are checked against that repo.
+Don't make any Creation Model change yet. Rob said on November 23, 2026 that Ironstone-Advisory/Ironstone-Creation-Model-Legacy is the canonical repo for the Creation Model, and this check couldn't read it. The Creation Model items are in "Waiting on Rob" until they are checked against that repo.
 
 ### Change 3: Licensing & Attribution page (from October 28)
 
@@ -110,7 +110,7 @@ Dot doesn't touch these until Rob decides and this log is updated:
 |---|---|---|
 | 1 | Bullshit Compass method documents (from October 28) | Keep them MIT like the code, or move them to CC BY 4.0 like the other methods. Change 3 names MIT for now |
 | 2 | Trademark sentence in change 3 (from October 28) | It follows this repo's NOTICE file and hasn't been reviewed by a lawyer |
-| 3 | Creation Model wording, to be checked against Ironstone-Advisory/Ironstone-Creation-Model | On the site today: the guide intro ends "Deciding, Archiving, Execution"; the guide says "Ideate produces options."; the guide and the glossary cite v1.7; the Methods page says "Status: working model; the broader consulting methodology is evolving." and "Fans, skeptics and regulation or law act on the work from outside it." RFC-0005 1.8 has Execute before Archive, "ideas: options not yet judged", Accepted v1.8, and four outside forces: fans, skeptics, competition and the law. The October 28 changes 2a to 2d hold until the canonical repo is checked |
+| 3 | Creation Model wording, to be checked against Ironstone-Advisory/Ironstone-Creation-Model-Legacy | On the site today: the guide intro ends "Deciding, Archiving, Execution"; the guide says "Ideate produces options."; the guide and the glossary cite v1.7; the Methods page says "Status: working model; the broader consulting methodology is evolving." and "Fans, skeptics and regulation or law act on the work from outside it." RFC-0005 1.8 has Execute before Archive, "ideas: options not yet judged", Accepted v1.8, and four outside forces: fans, skeptics, competition and the law. The October 28 changes 2a to 2d hold until the canonical repo is checked |
 | 4 | Two repos on the site index (from November 3) | github.com/Ironstone-Advisory/neocrm and github.com/Ironstone-Advisory/ImportantPublicDocumentsTemplates: keep both linked, or remove whichever isn't meant to be public |
 
 ## Status
