@@ -89,6 +89,7 @@ A knowledge object can carry an evidence grade on each claim it makes, with the 
 | Oct 11, 2026 | The ladder, the cap and the dependency rule are added in Canvas v4. Proposed by Claude in a critique Rob asked for, then adopted and revised by Rob (AI-assisted) | Claude conversation "Startup pitch methodology critique" |
 | Oct 13, 2026 | Used in the Think chapter of the Eight Energies manuscript (the kill list) | Claude conversation "Creator model conversations" |
 | Oct 2026 | Published: "Confidence cannot be higher than the evidence" | [Ironstone Methods](https://www.ironstoneadvisory.com/what-we-do/ironstone-methods) |
+| Nov 2026 | Evidence Ladder entry in the ironstoneadvisory.com glossary, E0 (assertion) to E4 (repeated result), linking back to this RFC | [Glossary](https://www.ironstoneadvisory.com/insights/glossary) |
 
 ## Change log
 

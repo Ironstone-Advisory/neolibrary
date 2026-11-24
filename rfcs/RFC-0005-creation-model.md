@@ -176,6 +176,7 @@ Exploratory notes extend the model without changing it. They aren't canonical; w
 | Oct 13, 2026 | Eight Energies | Decide added after Judge and before Archive, from Deming's plan-do-check-act. A ninth energy may yet emerge | Claude conversation "Creator model conversations" |
 | Oct 17, 2026 | Published | ironstoneadvisory.com lists ideate, think, make, do, judge, decide, execute, archive, with fans, skeptics and regulation as outside forces | [Ironstone Methods](https://www.ironstoneadvisory.com/what-we-do/ironstone-methods) |
 | Oct 25, 2026 | Site guide | Creation Model guide published on ironstoneadvisory.com, citing v1.7 and linking back to this RFC | [Creation Model](https://www.ironstoneadvisory.com/what-we-do/ironstone-methods/creation-model) |
+| Nov 2026 | Glossary entry | Creation Model entry in the ironstoneadvisory.com glossary, linking back to this RFC as "accepted Creation Model v1.7" | [Glossary](https://www.ironstoneadvisory.com/insights/glossary) |
 
 ## Change log
 
